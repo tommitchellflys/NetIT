@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>NetIT Solutions</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+   <!-- Header
+   ================================================== -->
+   <header id="home">
+
+      <nav id="nav-wrap">
+
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+         <ul id="nav" class="nav">
+            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+            <li><a class="smoothscroll" href="#about">Our Team</a></li>
+            <li><a class="smoothscroll" href="#testimonials">Ideal Jobs</a></li>
+	         <li><a class="smoothscroll" href="#resume">IT Work</a></li>
+            <li><a class="smoothscroll" href="#portfolio">IT Technolgies</a></li>
+            <li><a class="smoothscroll" href="#project">IT Project</a></li> 
+            <li><a class="smoothscroll" href="#contact">Contact</a></li>
+         </ul> <!-- end #nav -->
+
+      </nav> <!-- end #nav-wrap -->
+
+      <div class="row banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline">NetIT Solutions.</h1>
+            <h3>NetIT <br>  <span>The</span> <span>Future</span> of  Information Technology.<br>
+                Let's <a class="smoothscroll" href="#about">start scrolling</a>
+            and learn more <a class="smoothscroll" href="#about">about us</a>.</h3>
+            <hr />
+      
+         </div>
+      </div>
+
+      <p class="scrolldown">
+         <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+      </p>
+
+   </header> <!-- Header End -->
+
+
+         <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/netit.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>NetIT Solutions </h2>
+
+            <p>NetIT Solutions has come together as a result of 3 young IT Professionals
+               looking to make a mark on the industry. Born as a result of a team building
+               project in university NetIT is excited to share with you what we have learnt / continue to 
+               learn here at RMIT Melbourne. Our founding members consist of Nate, Enoch and Tom. below you will find a 
+               little more information on each of us and a button that will take you to our personal profiles.
+
+
+          
+
+               </div>
+
+               <div class="columns download">
+               
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+
+      <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/nathaniel.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Nathaniel </h2>
+
+            <p>I have spent nearly 15 years in the hospitality industry. with a strong background in gaming. 
+               I have been a duty manager in a few clubs around Canberra. While working in clubs I also owned 
+               and operated a small cleaning business for 6 years. I specialised in domestic cleaning but also 
+               had a few commercial contracts. During January of 2020 I decided to resign from my full-time role 
+               as Duty Manager so I could focus on building the cleaning business so I could sell it. 2 weeks after 
+               I resigned from the club I managed to become fully booked and started working 6 days per week, 2 weeks 
+               later we were hit with the pandemic, resulting in the sudden loss of 90% of my customer base. After trying
+                to keep the business afloat for two months, I made the hardest decision of my life, which was to close the 
+                cleaning business indefinitely. After the business closed, I decided to try and up skill by enrolling into a 
+                Bachelor of Management. I have completed three units at a university level with a high credit average to date.
+
+
+            </p>
+
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Nate - NetIt</span><br>
+						   <span>RMIT - Melbourne<br>
+						         Student Number - S3882512
+                     </span><br>
+                     <span>S3882512@student.rmit.edu.au</span>
+					   </p>
+
+               </div>
+
+               <div class="columns download">
+                  <p>
+                     <a href="https://nategiucci.github.io/profile/personal_info.html" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+      <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/enoch.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Enoch </h2>
+
+            <p>Mr. Enoch Liu is a third year Bachelor of IT student at RMIT University, 
+               who has had a keen interest in computer and programming since an early age. 
+               He was born in Australia with a Chinese cultural heritage, and with parents 
+               that maintain a close connection to their birthplace, Hong Kong. Enoch is fluent in English, 
+               (as well as Python, Java, C++ and R, just joking!), and is learning to read and write Chinese and Indonesian.
+            </p>
+
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Enoch - NetIt</span><br>
+						   <span>RMIT - Melbourne<br>
+						         Student Number - s3731997
+                     </span><br>
+                     <span>s3731997@student.rmit.edu.au</span>
+					   </p>
+
+               </div>
+
+               <div class="columns download">
+                  <p>
+                     <a href="https://s3731997.github.io/" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+   <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/tom.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Thomas </h2>
+
+            <p>My name is Thomas Mitchell, I am a 29yr old Australian currently living in Spain, 
+               A locksmith by trade, and a background in sales, I have spent the last 10 years 
+               jumping out of planes. Skydiving started as a hobby and quickly became my job. 
+               I have been lucky enough to travel the world over through skydiving. My father was an IT professional, 
+               so I have been exposed to the IT industry my whole life. I speak English and a little bit of Spanish.
+            </p>
+
+            <div class="row">
+
+               <div class="row">
+
+                  <div class="columns contact-details">
+   
+                     <h2>Contact Details</h2>
+                     <p class="address">
+                        <span>Thomas - NetIt</span><br>
+                        <span>RMIT - Melbourne<br>
+                              Student Number - S3925818
+                        </span><br>
+                        <span>S3925818@student.rmit.edu.au</span>
+                     </p>
+   
+                  </div>
+   
+               <div class="columns download">
+                  <p>
+                     <a href="https://tommitchellflys.github.io/RMIT-Profile-Tm/" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+   <section id="testimonials">
+
+      <div class="text-container">
+
+         <div class="row">
+
+            <div class="two columns header-col">
+
+         
+
+            </div>
+
+            <div class="ten columns flex-container">
+
+               <div class="flexslider">
+
+                  <ul class="slides">
+
+                     <li>
+                        <blockquote>
+                           <p>Cyber Security Advisor:<br> 
+                              this role is responsible for advising government agencies on how to better equip their services 
+                              to ensure that they are meeting high quality cyber standards by creating and implementing new 
+                              infrastructure and platforms. Preforming penetration testing is the main reason I decided to 
+                              pursue a degree in IT, I find ethical hacking to be extremely interesting.
+                           </p>
+                           <cite>Nathaniel</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>Software Developer:<br>
+                              The developer is expected to work with other developers 
+                              and analysts as a team. Secure APIs will also be developed to access the payment system, 
+                              and message queues will be used to process the high amount of real time payments that will take place. 
+                              This position will be challenging as real time payment processing requires fast response time and a 
+                              high expectation of uninterrupted service, in order to ensure smooth financial transactions. 
+                              Any service breakdowns will cause huge financial loss to the client and significantly reduce 
+                              customer satisfaction. The developer is expected to be a team player who works with 
+                              other IT professionals in the company.
+                           </p>
+                           <cite>Enoch</cite>
+                        </blockquote>
+
+
+                        
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>
+                              Software Engineer:<br>
+                              I believe such a job would be full of creative challenges and position me in the 
+                              forefront of the industry. Allowing me to gain key experience and insight 
+                              into the future of the IT industry, whilst keeping my skillset sharp and relative for years to come.
+
+                           </p>
+                           <cite>Thomas</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                  </ul>
+
+               </div> <!-- div.flexslider ends -->
+
+            </div> <!-- div.flex-container ends -->
+
+         </div> <!-- row ends -->
+
+       </div>  <!-- text-container ends -->
+
+   </section> <!-- Testimonials Section End-->
+
+   <!-- Resume Section
+   ================================================== -->
+   <section id="resume">
+
+      
+
+      <!-- Work
+      ----------------------------------------------- -->
+      <div class="row work">
+
+         <div class="three columns header-col">
+            <h1><span>IT Work</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>IT Interview - Christine</h3>
+                  <p class="info">Data Analyst / Data Miner <span>&bull;</span> <em class="date">Jan 2022</em></p>
+
+                  <p>
+              In this Interview Nate takes a deep dive into Christines day to day life as a Data Analyst / Data Miner.
+              During this interview nate and Christine cover topics including User interface, Whats Required, Who christine 
+              works for (clients) and other interesting insights.
+                  </p>
+                  <button onclick="window.location.href='https://youtu.be/JRlW9wS0XkU'">Listen Now</button>
+				  <button onclick="window.location.href='interview1.html'">Transcript</button>
+                  <br>
+                  
+
+               </div>
+
+            </div> <!-- item end -->
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>IT Interview Zahid</h3>
+                  <p class="info">Senior Buisiness Analyst <span>&bull;</span> <em class="date">Jan 2022</em></p>
+
+                  <p>
+                  Nate and Zahid Get down to the nitty gritty of what it takes to be a Senior Data Analyst, App Dev, Buisiness
+                  Requirements and many other interesting topics!
+                  </p>
+                  <button onclick="window.location.href='https://youtu.be/zOK6jZUnONM'">Listen Now</button>
+				  <button onclick="window.location.href='interview2.html'">Transcript</button>
+                  <br>
+               
+
+
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Work -->
+
+       <!-- Portfolio Section
+   ================================================== -->
+   <section id="portfolio">
+
+      <div class="row">
+
+         <div class="twelve columns collapsed">
+
+            <h1>IT Technologies.</h1>
+
+            <!-- portfolio-wrapper -->
+            <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+
+          	   <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-01" title="">
+                        <img alt="" src="images/portfolio/crypto.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Crypto Currency</h5>
+                              <p>Block Chain Technologies</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-02" title="">
+                        <img alt="" src="images/portfolio/cybersecurity.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Cyber Security</h5>
+                              <p>Protection Systems</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-03" title="">
+                        <img alt="" src="images/portfolio/cloudcomputing.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Cloud Services</h5>
+                              <p>SAAS, IAAS, PAAS</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-04" title="">
+                        <img alt="" src="images/portfolio/machinelearning.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Machine Learning</h5>
+                              <p>Automatic Algorithms</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               
+
+         <!-- Modal Popup
+	      --------------------------------------------------------------- -->
+
+         <div id="modal-01" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Coffee Cup</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
+		      </div>
+
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-01 End -->
+
+         <div id="modal-02" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Console</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding, Web Development</span>
+		      </div>
+
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-02 End -->
+
+         <div id="modal-03" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Judah</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding</span>
+		      </div>
+
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-03 End -->
+
+         <div id="modal-04" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Into the Light</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+		      </div>
+
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-04 End -->
+
+         
+
+	      </div><!-- modal-01 End -->
+
+
+      </div> <!-- row End -->
+
+   </section> <!-- Portfolio Section End-->
+
+
+
+      <!-- Skills
+      ----------------------------------------------- -->
+      <section id="project">
+      <div class="row skill">
+
+         <div class="three columns header-col">
+            <h1><span>IT Project</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <p>
+               This is where our project will go !
+
+            </p>
+         
+            
+
+				<div class="bars">
+
+				   <ul class="skills">
+					   <li><span class="bar-expand People Skills"></span><em>Funding</em></li>
+                  <li><span class="bar-expand illustrator"></span><em>Buisiness plan</em></li>
+						<li><span class="bar-expand wordpress"></span><em>Teamwork</em></li>
+						<li><span class="bar-expand css"></span><em>Development</em></li>
+						<li><span class="bar-expand html5"></span><em>Passion</em></li>
+                  <li><span class="bar-expand jquery"></span><em>Integrity</em></li>
+					</ul>
+
+				</div><!-- end skill-bars -->
+
+			</div> <!-- main-col end -->
+
+      </div> <!-- End skills -->
+
+   </section> <!-- Resume Section End-->
+
+   
+
+  
+
+
+
+  
+
+
+   <!-- Contact Section
+   ================================================== -->
+   <section id="contact">
+
+         <div class="row section-head">
+
+            <div class="two columns header-col">
+
+               <h1><span>Get In Touch.</span></h1>
+
+            </div>
+
+            <div class="ten columns">
+
+                  <p class="lead">In order to contact us please click on the Links below and email us!
+                  </p>
+                  <li>Nathaniel Email: <a href="S3882512@student.rmit.edu.au" title="Styleshout" target="_blank">S3882512@student.rmit.edu.au</a></li>  
+                  <li>Enoch Email: <a href="s3731997@student.rmit.edu.au" title="Styleshout" target="_blank">s3731997@student.rmit.edu.au</a></li>  
+                  <li>Thomas Email: <a href="S3925818@student.rmit.edu.au" title="Styleshout" target="_blank">S3925818@student.rmit.edu.au</a></li>  
+
+            </div>
+
+         </div>
+
+        
+
+			
+				   </div>
+
+            </div>
+
+
+            <aside class="four columns footer-widgets">
+
+            
+               
+
+            </aside>
+
+      </div>
+
+   </section> <!-- Contact Section End-->
+
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+
+  
+
+            <ul class="copyright">
+               <li>Ceevee &copy; Copyright 2016</li>
+               <li>Design by <a href="http://srikrishnacommunication.com/Giridesigns.html" title="Styleshout" target="_blank">Giri Designs</a></li>   
+            </ul>
+
+         </div>
+
+         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+
+      </div>
+
+   </footer> <!-- Footer End-->
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/magnific-popup.js"></script>
+   <script src="js/init.js"></script>
+
+</body>
+
+</html>
