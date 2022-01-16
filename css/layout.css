@@ -14,8 +14,9 @@
    f. Portfolio Section
    g. Call To Action Section
    h. Testimonials Section
-   i. Contact Section
-   j. Footer
+   i. Project Section
+   j. Contact Section
+   k. Footer
 
 ===================================================================== */
 
@@ -474,6 +475,8 @@ ul.industrydata_sub {
    padding-top: 90px;
    padding-bottom: 60px;
 }
+
+
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
@@ -843,7 +846,54 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------ */
-/* i. Contact Section
+/* i. Project Section
+/* ------------------------------------------------------------------ */
+
+#project {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#project a, #project a:visited  { color: #11ABB0; }
+#project a:hover, #project a:focus { color: #313131; }
+
+#project h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#project h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#project h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#project .header-col { padding-top: 9px; }
+#project .main-col { padding-right: 10%; }
+
+
+}
+#project .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#project .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#project.date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* j. Contact Section
 /* ------------------------------------------------------------------ */
 
 #contact {
@@ -980,7 +1030,7 @@ call-to-action .button {
 
 
 /* ------------------------------------------------------------------ */
-/* j. Footer
+/* k. Footer
 /* ------------------------------------------------------------------ */
 
 footer {
