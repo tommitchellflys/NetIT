@@ -281,6 +281,88 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+/* ------------------------------------------------------------------ */
+/* e. data Section
+/* ------------------------------------------------------------------ */
+
+#data {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#data a, #data a:visited  { color: #11ABB0; }
+#data a:hover, #data a:focus { color: #313131; }
+
+#data h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#data h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#data h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#data .header-col { padding-top: 9px; }
+#data .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#data .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#data .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#data .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/*----------------------------------------------*/
+/*	Table
+/*----------------------------------------------*/
+ul.industrydata {
+  list-style-type: square;
+}
+ul.industrydata_sub {
+  list-style-type: circle;
+}
+#industrydata {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#industrydata td, #industrydata th {
+  border: 1px solid #ddd;
+  padding: 16px;
+}
+
+#industrydata tr:nth-child(even){background-color: #f2f2f2;}
+
+#industrydata tr:hover {background-color: #ddd;}
+
+#industrydata th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #333;
+  color: white;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
