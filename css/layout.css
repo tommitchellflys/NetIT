@@ -10,11 +10,12 @@
    b. Header Styles
    c. About Section
    d. Resume Section
-   e. Portfolio Section
-   f. Call To Action Section
-   g. Testimonials Section
-   h. Contact Section
-   i. Footer
+   e. Data Section
+   f. Portfolio Section
+   g. Call To Action Section
+   h. Testimonials Section
+   i. Contact Section
+   j. Footer
 
 ===================================================================== */
 
@@ -304,32 +305,8 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
-#data h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
-}
 
-#data .header-col { padding-top: 9px; }
-#data .main-col { padding-right: 10%; }
 
-.education, .work {
-   margin-bottom: 48px;
-   padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
-}
-#data .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
-   margin-bottom: 18px;
-   margin-top: 9px;
-}
-#data .info span {
-   margin-right: 5px;
-   margin-left: 5px;
-}
-#data .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
-   margin-top: 6px;
-}
 
 /*----------------------------------------------*/
 /*	Table
@@ -489,7 +466,7 @@ ul.industrydata_sub {
 }
 
 /* ------------------------------------------------------------------ */
-/* e. Portfolio Section
+/* f. Portfolio Section
 /* ------------------------------------------------------------------ */
 
 #portfolio {
@@ -660,7 +637,7 @@ ul.industrydata_sub {
 }
 
 /* ------------------------------------------------------------------ */
-/* f. Call To Action Section
+/* g. Call To Action Section
 /* ------------------------------------------------------------------ */
 
 #call-to-action {
@@ -717,7 +694,7 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------
-/* g. Testimonials
+/* h. Testimonials
 /* ------------------------------------------------------------------ */
 
 #testimonials {
@@ -866,7 +843,7 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------ */
-/* h. Contact Section
+/* i. Contact Section
 /* ------------------------------------------------------------------ */
 
 #contact {
@@ -1003,7 +980,7 @@ call-to-action .button {
 
 
 /* ------------------------------------------------------------------ */
-/* i. Footer
+/* j. Footer
 /* ------------------------------------------------------------------ */
 
 footer {
