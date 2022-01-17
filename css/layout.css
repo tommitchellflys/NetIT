@@ -290,7 +290,7 @@ ul#nav li.current a { color: #F06000; }
 #data {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 72px;
+   padding-bottom: 0px;
    overflow: hidden;
 }
 
@@ -305,6 +305,16 @@ ul#nav li.current a { color: #F06000; }
 #data h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
+}
+#data p {
+
+   padding-left: 18px;
+   padding-bottom: 0px;
+   margin-bottom: 5px;
+   width: 115%;
+   line-height: 30px;
+   color: #7A7A7A;
+   
 }
 
 
@@ -340,6 +350,7 @@ ul.industrydata_sub {
   background-color: #333;
   color: white;
 }
+
 
 /*----------------------------------------------*/
 /*	Skill Bars
