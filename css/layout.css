@@ -10,13 +10,16 @@
    b. Header Styles
    c. About Section
    d. Resume Section
-   e. Data Section
-   f. Portfolio Section
-   g. Call To Action Section
-   h. Testimonials Section
-   i. Project Section
-   j. Contact Section
-   k. Footer
+   e. Tools Section
+   f. Resume Section
+   g. Data Section
+   h. Portfolio Section
+   i. Call To Action Section
+   j. Testimonials Section
+   k. Project Section
+   l. Reflection Section
+   m. Contact Section
+   n. Footer
 
 ===================================================================== */
 
@@ -231,10 +234,36 @@ ul#nav li.current a { color: #F06000; }
    margin-right: 15px;
    font-size: 20px;
 }
+/* ------------------------------------------------------------------ */
+/* e. Tools Section
+/* ------------------------------------------------------------------ */
+
+#tools {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 0px;
+   overflow: hidden;
+}
+
+
+
+#tools h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#tools h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#tools p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
 
 
 /* ------------------------------------------------------------------ */
-/* d. Resume Section
+/* f. Resume Section
 /* ------------------------------------------------------------------ */
 
 #resume {
@@ -284,7 +313,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* ------------------------------------------------------------------ */
-/* e. data Section
+/* g. data Section
 /* ------------------------------------------------------------------ */
 
 #data {
@@ -478,7 +507,7 @@ ul.industrydata_sub {
 }
 
 /* ------------------------------------------------------------------ */
-/* f. Portfolio Section
+/* h. Portfolio Section
 /* ------------------------------------------------------------------ */
 
 #portfolio {
@@ -651,7 +680,7 @@ ul.industrydata_sub {
 }
 
 /* ------------------------------------------------------------------ */
-/* g. Call To Action Section
+/* i. Call To Action Section
 /* ------------------------------------------------------------------ */
 
 #call-to-action {
@@ -708,7 +737,7 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------
-/* h. Testimonials
+/* j. Testimonials
 /* ------------------------------------------------------------------ */
 
 #testimonials {
@@ -857,7 +886,7 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------ */
-/* i. Project Section
+/* k. Project Section
 /* ------------------------------------------------------------------ */
 
 #project {
@@ -902,9 +931,34 @@ call-to-action .button {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
-
 /* ------------------------------------------------------------------ */
-/* j. Contact Section
+/* l. Reflection Section
+/* ------------------------------------------------------------------ */
+
+#reflection {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 0px;
+   overflow: hidden;
+}
+
+
+
+#reflection h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#reflection h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#reflection p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+/* ------------------------------------------------------------------ */
+/* m. Contact Section
 /* ------------------------------------------------------------------ */
 
 #contact {
@@ -1041,7 +1095,7 @@ call-to-action .button {
 
 
 /* ------------------------------------------------------------------ */
-/* k. Footer
+/* n. Footer
 /* ------------------------------------------------------------------ */
 
 footer {
