@@ -1,0 +1,1856 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>NetIT Solutions</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+   <!-- Header
+   ================================================== -->
+   <header id="home">
+
+      <nav id="nav-wrap">
+
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+
+         <ul id="nav" class="nav">
+            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+            <li><a class="smoothscroll" href="#about">Our Team</a></li>
+            <li><a class="smoothscroll" href="#testimonials">Ideal Jobs</a></li>
+			<li><a class="smoothscroll" href="#tools">tools</a></li>
+			<li><a class="smoothscroll" href="#data">Industry Data</a></li>
+			
+	         <li><a class="smoothscroll" href="#resume">IT Work</a></li>
+            <li><a class="smoothscroll" href="#portfolio">IT Technolgies</a></li>
+            <li><a class="smoothscroll" href="#project">IT Project</a></li>
+<li><a class="smoothscroll" href="#reflection">Reflection</a></li>			
+            <li><a class="smoothscroll" href="#contact">Contact</a></li>
+         </ul> <!-- end #nav -->
+
+      </nav> <!-- end #nav-wrap -->
+
+      <div class="row banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline">NetIT Solutions.</h1>
+            <h3>NetIT <br>  <span>The</span> <span>Future</span> of  Information Technology.<br>
+                Let's <a class="smoothscroll" href="#about">start scrolling</a>
+            and learn more <a class="smoothscroll" href="#about">about us</a>.</h3>
+            <hr />
+      
+         </div>
+      </div>
+
+      <p class="scrolldown">
+         <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+      </p>
+
+   </header> <!-- Header End -->
+
+
+         <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/netit.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>NetIT Solutions </h2>
+
+            <p>NetIT Solutions has come together as a result of 7 young IT Professionals
+               looking to make a mark on the industry. Born as a result of a team building
+               project in university NetIT is excited to share with you what we have learnt / continue to 
+               learn here at RMIT Melbourne. Our founding members consist of Nate, Enoch, Tom, Lynn, Angeles, Alwyn and Rabeed. Below you will find a 
+               little more information on each of us and a button that will take you to our personal profiles.
+
+
+          
+
+               </div>
+
+               <div class="columns download">
+               
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+
+      <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/nathaniel2.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Nathaniel </h2>
+
+            <p>I have spent nearly 15 years in the hospitality industry with a strong background in gaming. 
+               I have been a duty manager in a few clubs around Canberra. While working in clubs I also owned 
+               and operated a small cleaning business for 6 years. I specialised in domestic cleaning but also 
+               had a few commercial contracts. During January of 2020 I decided to resign from my full-time role 
+               as Duty Manager so I could focus on building the cleaning business so I could sell it. 2 weeks after 
+               I resigned from the club I managed to become fully booked and started working 6 days per week, 2 weeks 
+               later we were hit with the pandemic, resulting in the sudden loss of 90% of my customer base. After trying
+                to keep the business afloat for two months, I made the hardest decision of my life, which was to close the 
+                cleaning business indefinitely. After the business closed, I decided to try and up skill by enrolling into a 
+                Bachelor of Management. I have completed three units at a university level with a high credit average to date.</p>
+				
+				<h2>Interest in IT</h2>
+<p>I have been interested in IT for a several years now. It all started back around the time of the 2016 Census from the Australian Bureau of Statistic and the DDos attack that caused the systems to be inaccessible. 
+Learning about what a DDos attack was, sparked my interest in the IT industry specifically cyber security and ethical hacking. 
+
+
+
+            </p>
+
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Nate - NetIt</span><br>
+						   <span>RMIT - Melbourne<br>
+						         Student Number - S3882512
+                     </span><br>
+                     <span>S3882512@student.rmit.edu.au</span>
+					   </p>
+
+               </div>
+
+               <div class="columns download">
+                  <p>
+                     <a href="https://nategiucci.github.io/profile/personal_info.html" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+      <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/enoch.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Enoch </h2>
+
+            <p>Mr. Enoch Liu is a third year Bachelor of IT student at RMIT University, 
+               who has had a keen interest in computer and programming since an early age. 
+               He was born in Australia with a Chinese cultural heritage, and with parents 
+               that maintain a close connection to their birthplace, Hong Kong. Enoch is fluent in English, 
+               (as well as Python, Java, C++ and R, just joking!), and is learning to read and write Chinese and Indonesian.
+            </p>
+
+				
+				<h2>Interest in IT</h2>
+				
+				<p>Enoch is interested in the emerging fields of Quantum Computing, Artificial Intelligence and Data Analytics in “monetizing” financial data. 
+				“Monetizing” means using data, such as customer purchasing records, to better understand their spending pattern and form targeted marketing strategies, in order to make money. 
+				Quantum computers are predicted to break the current hardware limitations of the conventional computers we use nowadays due to its much faster processing speed, and research on its programming is already under way. 
+				Artificial Intelligence is becoming more widely used in automated decision making such as search assistants and self-driving cars, in order to achieve better cost efficiency in business and convenience in everyday life.
+            </p>
+            <div class="row">
+
+               <div class="columns contact-details">
+
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Enoch - NetIt</span><br>
+						   <span>RMIT - Melbourne<br>
+						         Student Number - S3731997
+                     </span><br>
+                     <span>S3731997@student.rmit.edu.au</span>
+					   </p>
+
+               </div>
+
+               <div class="columns download">
+                  <p>
+                     <a href="https://s3731997.github.io/" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+   <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/tom.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Thomas </h2>
+
+            <p>My name is Thomas Mitchell, I am a 29yr old Australian currently living in Spain, 
+               A locksmith by trade, and a background in sales, I have spent the last 10 years 
+               jumping out of planes. Skydiving started as a hobby and quickly became my job. 
+               I have been lucky enough to travel the world over through skydiving. My father was an IT professional, 
+               so I have been exposed to the IT industry my whole life. I speak English and a little bit of Spanish.
+            </p>
+
+<h2>Interest in IT</h2>
+				
+				<p>IT has always been a part of my life! As a child I always had a computer thanks to my father, So I guess you could say he is my inspiration to be here now and looking to make this career change. 
+				IT became necessary as I progressed through my Skydiving career. Social media marketing, brand representation and upholding an internet presence as a whole became more prevalent and required, I thoroughly enjoy getting creative with both content creation and programming although I am still only a beginner.
+            </p>
+            
+
+
+               <div class="row">
+
+                  <div class="columns contact-details">
+   
+                     <h2>Contact Details</h2>
+                     <p class="address">
+                        <span>Thomas - NetIt</span><br>
+                        <span>RMIT - Melbourne<br>
+                              Student Number - S3925818
+                        </span><br>
+                        <span>S3925818@student.rmit.edu.au</span>
+                     </p>
+   
+                  </div>
+   
+               <div class="columns download">
+                  <p>
+                     <a href="https://tommitchellflys.github.io/RMIT-Profile-Tm/" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+   
+      <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/lynn.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Lynn</h2>
+
+            <p>My name is Lynn Su Wai, 32 years old and was born in Myanmar (Burma), I came to Australia in 2010 for further study. 
+			I live in Dubbo which is a regional area of New South Wales and working full-time.  
+			At my current work, I sometimes have to participate in assisting IT and Operations work then it has become my interest in IT industry, especially Networking and Programming in Telecommunication Industry. 
+			I love to spend my leisure time by watching Japanese Anime and watching movies. 
+            </p>
+
+  <h2>Interest in IT</h2>
+				
+				<p>While I was studying in Sydney, I lived in shared house. It was allowed girls only and most are Burmese people. In our teenage in Myanmar, we did not have knowledge of technology and IT stuff. 
+				Since I have a bit of hobby of fixing laptop and electronic things, they used to come to me when they faced an issue, such as manufacture drivers, printer, and router. 
+				However, it did not make me to study in IT yet. After I have got my full-time job, most of my colleagues are working in IT and Operations in my company. 
+				When we are on break, or I have to help them to partially in their works. I began to understand and be interested in how IT plays a role in most of our lives and the ability to apply IT is unlimited.
+            </p>
+               <div class="row">
+
+                  <div class="columns contact-details">
+   
+                     <h2>Contact Details</h2>
+                     <p class="address">
+                        <span>Lynn - NetIt</span><br>
+                        <span>RMIT - Melbourne<br>
+                              Student Number - S3934613
+                        </span><br>
+                        <span>S3934613@student.rmit.edu.au</span>
+                     </p>
+   
+                  </div>
+   
+               <div class="columns download">
+                  <p>
+                     <a href="https://lswai.github.io/LynnWai-ePortfolio/LynnWai_ePortfolio.html" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+   
+     <!-- About Section
+   ================================================== -->
+    <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/angeles.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Angeles</h2>
+
+            <p>My name is Angeles. I was born in Chile, moved to Switzerland when I was 10 and later to Australia when I was 16. 
+			I speak English, Spanish, and French fluently. While I was living in Switzerland, I tried to go for my 4th language and moving to the German-speaking side of the country on my own. 
+			I did not realise the many different dialects that the German language has, and I ended up learning a specific type of Swiss-German. 
+			I have always had a passion for art and technology, and I did a graphic design diploma when I finished high school. I thought it would allow me to have both combined. 
+			I have had the chance to work in the industry for 2 years now. I decided to study IT because I knew that I wanted to upgrade my skill set. After some time, I concluded that UX design was a great path to follow for me.  
+            </p>
+<h2>Interest in IT</h2>
+				
+				<p>I have always had a big interest for computers, technology and video games. 
+				My father likes gaming and growing up with him I would always be curious about the way video games were made more than the games themselves. 
+				I would watch him play for hours and I would just look at the animations while telling myself that someday I will understand the back end of video games. 
+				It wasn’t until I was 13 years old that I was directly exposed to coding and gained more appreciation towards developers. 
+            </p>
+           
+               <div class="row">
+
+                  <div class="columns contact-details">
+   
+                     <h2>Contact Details</h2>
+                     <p class="address">
+                        <span>Angeles - NetIt</span><br>
+                        <span>RMIT - Melbourne<br>
+                              Student Number - S3935640
+                        </span><br>
+                        <span>S3935640@student.rmit.edu.au</span>
+                     </p>
+   
+                  </div>
+   
+               <div class="columns download">
+                  <p>
+                     <a href="https://angels-777.github.io/Assessment1IT/" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+   
+     <!-- About Section
+   ================================================== -->
+
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/alwyn.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Alwyn</h2>
+
+            <p>I'm a Melbourne based IT student with a passion for languages and beauty. 
+               My dream is to help make global communication via language learning a more accessible 
+               and fun process. Native English speaker with some experience in Mandarin, pursuing Thai 
+               and Belarusian in 2022.  
+            </p>
+
+      <h2>Interest in IT</h2>
+				
+				<p>My first introduction to IT was through my family's long running interest in computers, my own interests remaining passive as I grew up. The catalyst from passive to active interest was through speculative fiction of the 90s on how technology would have advanced to today, particularly Serial Experiments Lain. Throughout my late teens and early twenties my interest turned into a full-on spark, from working on a game development jam with a close friend to listening to my electronic music production teacher discussing how synthesisers and the work of Wendy Carlos has affected the creation of music to this day.
+            </p>
+               <div class="row">
+
+                  <div class="columns contact-details">
+   
+                     <h2>Contact Details</h2>
+                     <p class="address">
+                        <span>Alwyn  - NetIt</span><br>
+                        <span>RMIT - Melbourne<br>
+                              Student Number - S3762681
+                        </span><br>
+                        <span>S3762681@student.rmit.edu.au</span>
+                     </p>
+   
+                  </div>
+   
+               <div class="columns download">
+                  <p>
+                     <a href="https://alwynrmit.github.io/intro-to-it-a1/" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+    
+     <!-- About Section
+   ================================================== -->
+
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/rabeed.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Rabeed</h2>
+
+            <p>I was born in Bangladesh and moved to Australia when I was 8 years old. 
+               At the time I primarily spoke Bengali but was rather fluent in English too 
+               as I had grown up playing games and watching films that were in English. 
+               It was a also a requirement at the school I attended to speak English at all 
+               times as well so that we could learn the language easier so that definitely helped 
+               with the transition as well. I still speak Bengali with family as well as English. 
+               So far to date I have completed my high school studies here, graduating from Macquarie
+                Fields High School after transferring, and currently undergoing my tertiary studies. 
+                Aside, from that I really enjoy gaming during my spare time, a good single player 
+                game can take up hours of my time on a good day. I also love cars as well, 
+                and the feeling of driving, something that I can’t quite put into words. 
+            </p>
+
+  <h2>Interest in IT</h2>
+				
+				<p>My interest in IT sparked primarily from gaming. Growing up playing video games back when I was young and comparing how much the technology and processing power of computers from then to now astonishes me. 
+				Especially, graphical fidelity within games, one of the reasons why I love playing single player games is because in those games I can set all graphics settings to the highest possible and see how good the game actually looks since higher framerates are not required in these scenarios. 
+            </p>
+               <div class="row">
+
+                  <div class="columns contact-details">
+   
+                     <h2>Contact Details</h2>
+                     <p class="address">
+                        <span>Rabeed  - NetIt</span><br>
+                        <span>RMIT - Melbourne<br>
+                              Student Number - S3930700
+                        </span><br>
+                        <span>S3930700@student.rmit.edu.au</span>
+                     </p>
+   
+                  </div>
+   
+               <div class="columns download">
+                  <p>
+                     <a href="https://s3930700.github.io/" class="button"></i>Personal Profile</a>
+                  </p>
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+   
+   <!-- About Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="three columns">
+
+            <img class="profile-pic"  src="images/netit.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Team Profile</h2>
+			
+
+            <h2>Nathaniel</h2>
+
+<p>The results of the Myer-Briggs test gave the score of ESTP-T with the scoring Extraverted 79%, Observant 55%, Thinking 75% Prospecting 68% and Turbulent 65%.
+The results from a learning style test confirmed that Nathaniel is a solitary learner, meaning that he needs peace and quiet to learn what is happening as he is easily distracted with less important thing.
+The final test that Nathaniel took was a verbal data and identifying critical issues. The result that Nathaniel got was average, this surprised him as he spent a lot of years reaching logical conclusions and identifying critical issues.</p>
+
+<h2>Enoch </h2>
+
+<p>The Myers-Briggs test results from 16personalities correlated with the code INTP-A (Introverted, iNtuition, Thinking, Perceiving and Assertive. Scoring 54% for Introverted, 52% for Intuition, 55% for thinking, 74% for Prospecting/ Perceiving, and 60% for Assertive.
+The learning style test that Enoch participated in concluded that he was predominantly a visual learner scoring 62 out of 100, followed closely by hearing scoring 46 out of 100 and finally by touching scoring 33 out of 100.
+After completing a Big Five Personality test that measures openness, conscientiousness, extraversion, agreeableness and neuroticism. The results from this test indicated that Enoch was relatively open to new experiences, impulsive and easily side-tracked.</p> 
+
+<h2>Thomas</h2>
+
+<p>The test results from National Career Service that Thomas took said that he is motivated, likes dealing with complicated problems, or working with numbers and is a practical person and enjoys getting things done.
+After completing a learning style test from Education Planner, Thoams’ results confirmed that he is mostly an auditory learner, meaning that he learns best by hearing and listening. Thoams can understand and remember things that he has heard, as well as being able to store information in the way of sound. He understands better if the tasks are spoken rather than written.
+The personality type that Thomas received from the Myer-Briggs test was Consul with the traits of Extraverted 74%, observant 51%, Feeling 63% Judging 53% and Assertive 75%.</p>
+
+<h2>Lynn</h2>
+
+<p>According to Myers-Briggs Test, Online Learning Style Test, Big Five Personality Test, I am an Adventurer ISFP-T in 16 types of personalities, introverted, observant and influence of feeling, prospecting and turbulent. The most appropriate learning style will be visual learning and I am easy to pick up quick if I see pictures and reading. Another prominent of test result is agreeableness which I scored 81% in the result which described that I would be a good team player and have empathy.</p> 
+
+<h2>Angeles</h2>
+
+<p>ENFJ-A (Extraversion, Intuition, Feeling, Judgment - Assertive). They refer to this type of personality as a Protagonist-Assertive. Protagonists tend to reveal how ordinary situations can be handled with compassion, dedication, and care, even the smallest activities are an opportunity for us to lead our way to a brighter future, so in teamwork we tend to motivate people to do better while keeping a positive attitude. In respect to my learning style, the results I got are tactile/kinesthetics. Tactile learners tend to absorb more information while doing things rather than when listening or reading. The third test I took was a psychometric test. My main personality traits in a work environment are confidence in my own ability to succeed and achievement drive. </p>
+
+<h2>Alwyn </h2>
+
+<p>INFP, also known as ‘the Healer’, ‘the Mediator’, or ‘the Empath’. Introverted, intuitive, feeling, and perceptive. 
+Tactile-Visual Learner, learning from information both being communicated visually and through action takes a bit of time, but the result is having a far deeper understanding of both what I have learnt and how to best apply it in practice. 
+Big Five Conscientious, reliability and long-term success are traits associated with conscientious people, though some may focus their lack of short-term success and cautiousness. I would argue that having dutifulness and cautiousness in the long-term is ultimately better than having short-term success, especially in an industry where short-term success is often followed by long term failure. </p>
+
+<h2>Rabeed</h2>
+
+<p>Based off these results, it seems that my personality is somewhat sitting on the fence between being an introvert and an extrovert. I tend to be assertive with my behavior and apparently have a hard time agreeing to other views. In my personal opinion, I feel I am rather open minded so I guess that is an area of the test that may be a bit hit or miss in terms of the results. The Big Five test, however, did give me a higher score on “Conscientious” so that in a sense does marry the previous comments together. Within a team environment, I know my assertiveness can get in the way, but my openness does assist in keeping efficient within that environment. As a result, when forming a team my primary focus would be to work with someone who is also open minded so that my assertiveness does not take over. </p> 
+
+<h2>Analysis of personality traits</h2> 
+
+<p>After analysing the personal profile for all team members there are a wide range of personality types, from Entrepreneur, Healer and Adventurer. Having different types of personalities and how different ways we learn can be hard to manage in a group assignment. From day one of setting up the group there will need to be clear roles for all those in the group, have roles for each person that tend to lack motivation and to ensure that everyone is working together. It would make sense to have the leader of the group be someone that is extraverted and observant, as having someone with these traits lead the group will aid the team into completing tasks and to have regular meetings or progress reports. Although there is not much of a cross over for the different personalities, the rang is so different that everyone in the group should get along well with everyone, if they speak up in the early days if they have any issues and be able to manage the team accordingly by the leader of the group.</p>
+
+
+
+          
+
+               </div>
+
+               <div class="columns download">
+               
+               </div>
+
+            </div> <!-- end row -->
+
+         </div> <!-- end .main-col -->
+
+      </div>
+
+   </section> <!-- About Section End-->
+
+
+
+      <!-- About Section
+     <!-- About Section
+   ================================================== -->
+
+
+   <section id="testimonials">
+
+      <div class="text-container">
+
+         <div class="row">
+
+            <div class="two columns header-col">
+
+         
+
+            </div>
+
+            <div class="ten columns flex-container">
+
+               <div class="flexslider">
+
+                  <ul class="slides">
+
+                     <li>
+                        <blockquote>
+                           <p>Cyber Security Advisor:<br> 
+                              this role is responsible for advising government agencies on how to better equip their services 
+                              to ensure that they are meeting high quality cyber standards by creating and implementing new 
+                              infrastructure and platforms. Preforming penetration testing is the main reason I decided to 
+                              pursue a degree in IT, I find ethical hacking to be extremely interesting.
+                              <br><br>
+                              Required skills:<br>
+                              <ul>           
+
+                                 <li> Experience with SQL
+                                    <li>  Team player
+
+                                    <li>  Data manipulations
+                                       <li> Bachelor of Information Technology
+
+                                      
+                           </ul>
+                           </p>
+                           <cite>Nathaniel</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>Software Developer:<br>
+                              The developer is expected to work with other developers 
+                              and analysts as a team. Secure APIs will also be developed to access the payment system, 
+                              and message queues will be used to process the high amount of real time payments that will take place. 
+                              This position will be challenging as real time payment processing requires fast response time and a 
+                              high expectation of uninterrupted service, in order to ensure smooth financial transactions. 
+                              Any service breakdowns will cause huge financial loss to the client and significantly reduce 
+                              customer satisfaction. The developer is expected to be a team player who works with 
+                              other IT professionals in the company.
+                              <br><br>
+                              Required skills:<br>
+                              <ul>
+                                 
+                                 <li>  Experience in financial industry, like banking and payment (desirable but not mandatory)
+
+                             <li> Message queueing experience (desirable but not mandatory)
+
+
+                              <li> Experience in developing secure APIs
+
+
+
+                                 <li> Experience with SQL server
+
+                                    <li>  Experience in C# and .Net
+
+                                      
+                           </ul>
+
+                           </p>
+                           <cite>Enoch</cite>
+                        </blockquote>
+
+
+                        
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>
+                              Software Engineer:<br>
+                              I believe such a job would be full of creative challenges and position me in the 
+                              forefront of the industry. Allowing me to gain key experience and insight 
+                              into the future of the IT industry, whilst keeping my skillset sharp and relative for years to come.
+                              <br><br>
+                              Required skills:<br>
+                              <ul>
+                                 
+                                 <li>  Java
+
+                             <li> C/C++
+
+                              <li> C#
+
+
+                                 <li> Python
+
+                                    <li>  SQL
+
+                                       <li> Bachelor of Information Technology
+                           </ul>
+
+                           </p>
+                           <cite>Thomas</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>
+                              Network Engineer:<br>
+                              A Telco company named Swoop is looking for an experienced Network Engineer 
+                              to join their team. I think it is an excited opportunity to be a part of a team 
+                              that provides service in people daily life since mobile, data, and calls have become
+                               essential communication in this decade.
+
+                               <br><br>
+                               Required skills:<br>
+                               <ul>
+                                  
+                                  <li>  Team player
+ 
+                              <li> Advanced networking 
+ 
+                               <li> Programming skills
+ 
+ 
+                                  <li> Wireless radio systems
+ 
+                                     <li>  Excellent management skill 
+ 
+                                        <li> Bachelor of Information Technology
+                            </ul>
+
+
+                           </p>
+                           <cite>Lynn</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>
+                              UX/UI Designer:<br>
+                              The role of a UX/UI designer is hard to define but basically consists of creating the interactive 
+                              side of the development of the user interface, making a product accessible and appealing for us. 
+                              The position combines elements of programming, data analysis, psychology, digital design, 
+                              and marketing to deliver products and services. They are responsible for creating user-centred
+                               designs by considering business requirements, the customers' opinions, feedback, and usability findings.
+                                UI designers also need a working understanding of coding and transfer the brand’s strength through 
+                                the interface of a product. 
+                                <br><br>
+                              Required skills:<br>
+                              <ul>
+                                 
+                                 <li>  layout and Interaction design 
+
+                             <li> visual design
+
+                              <li> wire framing and prototyping
+
+                                 <li> data analysis 
+
+                                    <li>  visual or text-based scripting
+
+                                       <li> excellent communication skills to keep contact with teams such as engineering, art, production 
+                           </ul>
+
+                           </p>
+                           <cite>Angeles</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>
+                              Frontend Developer:<br>
+                              The position is described in the title, being one with a focus on the frontend experience of users
+                               of the Glossika website. Building code and libraries that can are both
+                              high quality and reusable for various webpages, ensuring and optimising quick response 
+                              times of the webpages, along with troubleshooting issues between the frontend and
+                              backend and fixing them are some of the included responsibilities.
+                              <br><br>
+                              Required skills:<br>
+                              <ul>
+                                 
+                                 <li>  Laravel 
+
+                             <li> JavaScript / Python
+
+                              <li> Unicode  
+
+                                 <li> IPA
+
+                                    <li>  A background in sound analysis tools
+
+                                       <li> Bachelor of Information Technology
+
+                                          <li>  Linguistics degree
+
+                           </ul>
+
+
+
+
+                           </p>
+                           <cite>Alwyn</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+                     <li>
+                        <blockquote>
+                           <p>
+                              Software Development Manager:<br>
+                              A FinTech Start-up called Just Digital People. They are looking for a development manager 
+                              that is experienced in .NET, React & Flutter to manage and engineer applications that will 
+                              run across Android, iOS and the web. The main reason this role attracted me is because it 
+                              is a start-up. I have always liked the culture of start-ups from hearing anecdotes of friends 
+                              and colleagues that have worked at start-ups and it always seems up beat and a great place to 
+                              learn new skills as you are closer to the development cycle of the products I feel. I have also 
+                              been working in the finance industry on the side and as such have come around the term Fintech 
+                              quite a lot. This is also an area that I wish to explore and learn more about since I already 
+                              have experience within the finance industry albeit minimal.  
+                              <br><br>
+                              Required skills:<br>
+                              <ul>
+                                 
+                                 <li>  Front-end in JavaScript/TypeScript - Angular or React 
+
+                             <li> Back-end in .NET Core/C# 
+
+                              <li> HTML5/CSS3/SASS 
+
+                                 <li> Mobile development experience - iOS/Android preferably with experience using Flutter
+
+                                    <li>  DevOps - AWS or Azure 
+
+                                       <li> Microservices Architecture
+
+                                          <li>  RESTful Web Services 
+
+                              <li>Test Driven Development 
+                           </ul>
+                           </p>
+                           <cite>Rabeed</cite>
+                        </blockquote>
+                     </li> <!-- slide ends -->
+
+
+
+                  </ul>
+
+               </div> <!-- div.flexslider ends -->
+
+            </div> <!-- div.flex-container ends -->
+
+         </div> <!-- row ends -->
+
+       </div>  <!-- text-container ends -->
+
+   </section> <!-- Testimonials Section End-->
+
+   <section id="tools">
+      <div class="row skill">
+
+         <div class="three columns header-col">
+            <h1><span>Tools</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <p>
+             The GitHub audit trail does not accurately reflect the work that we have done as a team. We played to the strengths of the group, those that had a better understanding of GitHub worked on the website, those that did not work on the website worked more on the content.
+
+            </p>
+         
+            
+
+				
+					</ul>
+
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=Pum7v9MY3h4'">Team Meeting 1</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=PIEzzflq6K0'">Team Meeting 2</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=O4ZPKq2G4TU'">Team Meeting 3</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=wHs5LOJFQD4'">Team Meeting 4</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=At5nZJUC8bc'">Team Meeting 5</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=xWRYc18Ou5A'">Team Meeting 6</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=jc7MfgBSqY4'">Team Meeting 7</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=0MGvDWzV3fw'">Team Meeting 8</button>
+               <button onclick="window.location.href='https://www.youtube.com/watch?v=3RJnDwuevpg'">Team Meeting 9</button>
+
+				</div><!-- end skill-bars -->
+
+			</div> <!-- main-col end -->
+
+      </div> <!-- End skills -->
+
+   </section> <!-- Resume Section End-->
+
+    <!-- Industry Data 
+	================================================== -->
+	 <section id="data">
+	
+	<div class="row">
+	 <div class="three columns header-col">
+            <h1><span>Industry Data</span></h1>
+    </div>
+	<div class="nine columns header-col">
+	<br>
+	
+
+<table id="industrydata">
+  <tr>
+    <th>Ideal Jobs as expressed by group members </th>
+    <th>Technical Skills </th>
+    <th>People Skills</th>
+	<th>Work Experience</th>
+	<th>Qualifications</th>
+	</tr> <!-- end title -->
+  
+  
+  <tr>
+    <td>Software Developer in Payment Solutions<br></br>(Enoch)</td>
+    <td>
+	    <ul class="industrydata">
+		<li> Experience in C# and .Net </li>
+		<li> Experience with SQL server</li>
+		<li> Experience in developing secure APIs</li>
+		<li> Message queueing experience (desirable but not mandatory)</li>
+		<li> Experience in financial industry, like banking and payment (desirable but not mandatory)</li>
+		</ul>
+	
+	<td> 
+		<ul class="industrydata">
+		<li> A team player who can communicate well with other IT professionals to collaborate on team projects </li>
+		<li> An open attitude to the latest technologies and innovative solutions proposed by colleagues</li>
+		</ul>
+	</td>
+	
+	<td> 
+	</td>
+	
+	<td> 
+	</td> 
+	</tr><!-- 1st Row End-->
+	
+	
+	<tr>
+	<td>Cyber Security Advisor<br></br>(Nathaniel)</td>
+	
+	<td> 
+		<ul class="industrydata">
+		<li> Experience with SQL  </li>
+		<li> Team player  </li>
+		<li> Data manipulations  </li>
+		</ul>
+	</td>
+	
+	<td> 
+		<ul class="industrydata">
+		<li> Improve skill of penetration testers  </li>
+		<li> Help make other use better coding practices  </li>
+		</ul>
+	</td>
+	
+	<td>
+	</td>
+	<td>
+	</td>
+	</tr><!-- 2nd Row End-->
+	
+	<tr>
+	
+	<td>Software Engineer at Microsoft<br></br>(Thomas)</td> 
+		<td> 
+		<ul class="industrydata">
+		<li> 2+ years of experience with one or more general purpose programming languages including but not limited to:</li>
+		<ul class="industrydata_sub">
+			<li> Java </li>
+			<li> C/C++</li>
+			<li> C#</li>
+			<li> Python</li>
+		</ul>
+			<ul>
+	</td>
+	
+	
+	
+	<td>
+     <ul class="industrydata">
+		<li> Strong problem solving & critical thinking</li>
+		<li> Clear communication skill</li>
+		<li> Collaborative team member</li>
+	 </ul>
+	</td>	
+		
+	<td>
+     <ul class="industrydata">
+		<li> Experience working with network equipment/technologies from various vendors </li>
+		<li>Experience as a technical operations role in telco service provider</li>
+		<li>Experience in project management in complex technology projects</li>
+	 </ul>
+	</td>	
+	
+	
+	<td>
+	</td>
+	</tr> <!-- 3rd Row End-->
+	
+	<tr>
+	<td>Network Engineer<br></br>(Lynn)</td> 
+	<td>
+     <ul class="industrydata">
+		<li> Experience in technical operations, networks implementation and maintaining </li>
+		<li> Experience in network routing technologies, broadband aggregation and QoS</li>
+		<li> Experience in working with project management, fixed wireless technology and segment routing</li>
+		<li> Programming Skill</li>
+	 </ul>
+	</td>	
+		
+	<td>
+     <ul class="industrydata">
+		<li> A confident team player who can communicate complex technical issues clearly and concisely with strong customer focus </li>
+		<li>Leading NOC team and participating in an on-call roster after business hour </li>
+		<li> Documenting project preparation, network review and improvement </li>
+		<li> Managing supplier relationships and co-ordination of procurement of all required resources </li>
+	 </ul>
+	</td>		
+	<td>
+	</td>
+	<td>
+	</td>
+	</tr> <!-- 4th Row End-->
+		
+	
+	<tr>
+	<td>UX/UI designer<br></br>(Angeles)</td> 
+	
+	
+	<td>
+     <ul class="industrydata">
+		<li> layout and Interaction design </li>
+		<li> visual design</li>
+		<li> wire framing and prototyping</li>
+		<li>data analysis</li>
+		<li>visual or text-based scripting</li>
+	 </ul>
+	</td>	
+
+	<td> 
+		<ul class="industrydata">
+		<li> Excellent communication skills to keep contact with teams such as engineering, art, production </li>
+		<ul class="industrydata_sub">
+			<li> Curiosity  </li>
+			<li> Collaboration </li>
+			<li> Flexibility </li>
+			<li> Passion for problem solving </li>
+		</ul>
+			<ul>
+	</td>
+		
+		
+		
+		<td> </td>
+		<td> </td>
+    </tr>  <!-- 5th Row End-->
+	
+	
+	
+	
+  <tr>
+	<td>Computational Linguist<br></br>(Alwyn)</td> 
+    <td>
+     <ul class="industrydata">
+		<li> Laravel  </li>
+		<li> Java Script or Python   </li>
+		<li> Unicode and IPA  </li>
+		<li> data analysis </li>
+		<li> sound analysis tools </li>
+		
+	</ul>
+	</td>
+	
+	<td></td>
+    <td></td>
+	
+	<td>
+	
+     <ul class="industrydata">
+		<li> Bachelor of Information Technology  </li>
+		<li> Linguistics Degree   </li>
+	</ul>
+	
+	</td>
+	
+		
+  </tr> <!-- 6th Row End-->
+  
+  <tr>
+  <td>Software Development Manager<br></br>(Rabeed) </td> 
+  <td>
+     <ul class="industrydata">
+		<li> Front-end in JavaScript/TypeScript - Angular or React  </li>
+		<li> Back-end in .NET Core/C#   </li>
+		<li> HTML5/CSS3/SASS </li>
+		<li> Mobile development experience - iOS/Android preferably with experience using Flutter </li>
+		<li> DevOps - AWS or Azure </li>
+		<li> Microservices Architecture </li>
+		<li> RESTful Web Services</li>
+		<li> Test Driven Development </li>
+		
+	</ul>
+	</td>
+	
+	<td></td>
+	<td></td>
+    <td></td>
+	</tr> <!-- 7th Row End-->
+	
+	
+	
+  
+</table>
+</table>
+	
+	</div>
+	
+	
+	
+	
+	</div>
+	<div class="row work">
+	<div class="nine columns header-col">
+	
+	<p>
+	 The job titles of our ideal jobs are Software Developer, Cyber Security Advisor, Software Engineer, Network Engineer, UX/UI, Computational Linguist and Software Development Manager. The ranking of our ideal jobs ranked from most common job title to least common job title, the most common job title is Network Engineer Software Developer/Engineer, followed by UX Designer, both Cyber Security Advisor and Computational Linguist were not listed as top Job titles. 
+    <br>
+	<br>
+	The most in-demand occupations from our ideal jobs by employers are Software Developers/Engineers, Cyber Security, UI/UX, Network Engineer and Computational Linguist was not ranked as an in-demand Job.
+	
+	
+    Our groups required skills sets can be found as above table.
+	<br><br>
+	
+    The most in demand IT specific skills are SQL, JAVA, Graphic Design, C#, .NET, and Python. These skills are shared through a lot of our ideal jobs.
+	<br>
+	
+    The general skills that are in our required skill sets are ranked as Communication, Problem Solving, Writing, Team Work, and Mentoring. These skills are regarded as the greatest in demand skills that an IT professional can have.
+	<br><br>
+    Out of the top 3 Kills that are in greatest demand, the ones that we don’t have for our ideal jobs are JavaScript, Microsoft Windows, and Project Management. 
+	<br>
+    The top 3 general skills that we don’t have for our ideal jobs are Organisational skills, Troubleshooting, Planning and being Detail-Orientated.
+	<br>
+    After looking at all the information provided by Burning Glass, our opinions about our ideal jobs have not changed. Some of our ideal jobs maybe harder to get into as they are not in as high demand as other, we have an interest in these areas and we will pursue these jobs at the present time.
+	</p>
+	</div>
+	</div>
+	
+	
+	</section>
+	
+	<!-- Resume Section
+   ================================================== -->
+   <section id="resume">
+
+      <!-- Work
+      ----------------------------------------------- -->
+      <div class="row work">
+
+         <div class="three columns header-col">
+            <h1><span>IT Work</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>IT Interview - Christine</h3>
+                  <p class="info">Data Engineer <span>&bull;</span> <em class="date">Jan 2022</em></p>
+
+                  <p>
+              NetIt Solutions interviewed Christine who is a Data Engineer, who has works for the Australian Federal Government for 12 years. Christine was asked several questions to help NetIT Solutions understand what a Data Engineer does.</p>
+			  
+<p>As a Data Engineer, Christine mostly works with very large data sets, Christine does a lot of analysis, data mining and reporting. Che also manipulates data to fit the way she needs it be able to report on. Manipulating data is used to extract data from different systems and those different systems have different formats for recording the data, Christine manipulates the data to merge all data sets and to ensure that the formatting is consistent with the data store.</p>
+<p>As Christine works for the Australian Federal Government, she was unable to elaborate on some of the questions that we asked her, as there is a level of secrecy that she needs to uphold with her position.</p>
+<p>Within her position with the Government, Christine must manage people, create apps and dashboards for her clients so they are self-sufficient, as they request the same data time and time again, the dashboards and apps streamline the data they need. Although Christine doesn’t make the app, she does have a lot of input for what the apps need to accomplish and how to prepare the data for input into the app.</p>
+<p>Christine works with a range of people within her IT profession. There are a lot of technical people as well as political people, senior executives, data scientist, and data engineers. Christine doesn’t interact with the general public very often; she mostly responds to freedom of information request from people that are asking questions that relate to how the data is being used under the freedom of information act. Christine does however provide information from the apps, dashboards and data sets to different government agencies if she receives a memorandum of understanding.</p>
+<p>The IT professionals that Christine work with are Data Analysts, Data Engineers, and IT support. they work together to extract data form legacy systems and cleanse data and add them to SQL to ensure the data is usable. Data cleansing is used to verify the information included in the data sets is accurate, by checking individual records to ensure that there were no system or human errors, Data cleansing is what most of Christines team do.</p>
+<p>The clients and investors that Christine interact with as Senior Executives, other business areas within her department and ministers. When parliament is sitting and someone asks the minister for Christine’s department a question, they will receive questions on notice, which means that Christine’s department will need to find the answer to the question so that the minster can answer the questions that the government have asked them.</p>
+<p>Christine spends most of her time managing the 25 staff members that work with her team, she manages the staff that are underneath her as well as the staff above her. As the team Christine works in manually check the data there is a lot of human error, Christine needs to engage the staff members that what they are doing is wrong and how they can improve from their mistakes so that they don’t have to cleans as much data. Christine also manages the data stores, where they use SAS, to deal with large data sets. The large data sets they use have mostly millions of rows of data, some have billions, which her team are responsible for manually checking to ensure that there are no errors in the data sets and why she spends most of her time managing staff members.</p>
+<p>Christine finds that managing staff is the most challenging aspect of her work. Other areas that she finds challenging is the different systems that she gets the data from, these systems are not very compatible with each other. How the data is stored also has its challenges, know what programming language that are being used to store the codes for the data stores, the languages that Christine mostly uses are, SAS, BASE, R is used or shiny apps, some Java and HTML, and a bit of Python. </p>
+<p>The essence of the work Christine’s IT work is creating apps, so the shiny apps that are used to extract data from the different systems and puts it all into a tidy place. Streamlining the process asking for the data by creating the dashboards and app where all parties can access the same information for different reasons.
+
+                  </p>
+                  <button onclick="window.location.href='https://youtu.be/44wX9e4C7Ic'">Listen Now</button>
+				  <button onclick="window.location.href='interview1.html'">Transcript</button>
+                  <br>
+                  
+
+               </div>
+
+            </div> <!-- item end -->
+
+            <div class="row item">
+
+               <div class="twelve columns">
+
+                  <h3>IT Interview Zahid</h3>
+                  <p class="info">Senior Buisiness Analyst <span>&bull;</span> <em class="date">Jan 2022</em></p>
+
+                  <p>
+                 NetIT Solutions interviewed Zahid who is a Senior Business Analyst, who has works for the Australian Federal Government for 10 years. Zahid was asked several questions to help NetIT Solutions understand what a Business Analysis does.</p>
+As a Senior Business Analyst, Zahid is a part of a team that develops new applications for the government. Zahid must work out the business requirements, the design aspects, designing universal modelling language diagrams, creating flowcharts, class diagrams, sequence diagrams, entity relationship diagrams and creating technical documentation for the new applications.</p>
+<p>As Zahid works for the Federal government there is a level of confidentiality that he must adhere to, the industry that he works in takes the law and or government system and interpret the legal changes into systems.</p>
+<p>The other work that Zahid must keep legacy systems up to date, use modern technology and ensure they don’t fall apart, work in migration projects, and talk to clients about what requirements they need for applications and exploring domains to see what needs to be improved for existing systems.</p>
+<p>The people that Zahid interact with varies depending on the project that he is working on. Most days Zahid works with the other Business analyst in his team, as well as programmers, a scrum master for daily meetings, product owners for dictating the requirements of what is being built, architects, program managers who look after funding and other areas that are looking for help.</p>
+<p>Working for the government, the term clients and investors is not the same as it means in the private sector, as the department that Zahid works in does not reach out to the public, all the clients are internal stakeholders who work for the organisation, they understand the law very well, and understand the process of particular government schemes or programs. Zahid doesn’t have much to do with those that issue funding, that is the role of the program manager.</p>
+<p>Depending on what he is doing, Zahid spends most of his time doing different thing. At the time of the interview, Zahid has been spending most of his time completing documentation, writing and designing systems, as well as talking with various stakeholders, architects and product owners. This documentation is to ensure that everyone in the team is on the same page.</p>
+<p>As a senior Business Analyst, Zahid finds that time management is the most challenging part of his work, he is copied into all emails that anyone in his team wants. Being in a leading role, prioritizing work is also a challenging as Zahid must interact with everyone.
+Making sure that everything works well when something is built, and has been thought through so it isn’t created twice is the essence of the IT industry that Zahid works in.
+
+                  </p>
+                  <button onclick="window.location.href='https://youtu.be/uVV5kScXr_A'">Listen Now</button>
+				  <button onclick="window.location.href='interview2.html'">Transcript</button>
+                  <br>
+               
+
+
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Work -->
+	  </section>
+
+       <!-- Portfolio Section
+   ================================================== -->
+   <section id="portfolio">
+
+      <div class="row">
+
+         <div class="twelve columns collapsed">
+
+            <h1>IT Technologies.</h1>
+
+            <!-- portfolio-wrapper -->
+            <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+
+          	   <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-01" title="">
+                        <img alt="" src="images/portfolio/crypto.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Crypto Currency</h5>
+                              <p>Block Chain Technologies</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-02" title="">
+                        <img alt="" src="images/portfolio/cybersecurity.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Cyber Security</h5>
+                              <p>Protection Systems</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-03" title="">
+                        <img alt="" src="images/portfolio/cloudcomputing.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Cloud Services</h5>
+                              <p>SAAS, IAAS, PAAS</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
+
+                     <a href="#modal-04" title="">
+                        <img alt="" src="images/portfolio/machinelearning.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Machine Learning</h5>
+                              <p>Automatic Algorithms</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
+
+                  </div>
+          		</div> <!-- item end -->
+
+               
+
+         <!-- Modal Popup
+	      --------------------------------------------------------------- -->
+
+         <div id="modal-01" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/crypto.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Crypto Currency</h4>
+			      <p>Blockchain and Crypto currency
+                  Crypto currency in its rawest form is a digital asset based on a network that is distributed and controlled via a network of computers. The structure if this network is decentralised which allows crypto currencies to exist outside the control of governments and central authorities such as banks.<br>
+                  
+                  Blockchain 
+                  As its name suggests a blockchain is essentially a set of connected blocks on an online ledger. A block is made up of transactions that have been independently verified by each member of the network. Every new block generated must be verified by each node making it essentially impossible to for transaction histories. The contents of the online ledger must be agreed upon by the entire network of an individual node, which provides an unmatched level of security.
+                  
+                  Blockchain technology can be utilised by many industries for a variety of uses, some examples of this are supply chain technologies, online voting, crowd funding, and banking applications just to name a few.<br>
+                  
+                  Some types of crypto currencies include Bitcoin, Ethereum, Xrp, Ripple, Solana, Enjin, Mana and many more, each crypto currency provides solutions / function. For example, Mana (Decentraland) is a coin that facilitates purchases of all types in its metaverse, Xrp is used to facilitate transfers by banks between different geographies.
+                  
+                  Satoshi nakamoto created Bitcoin, it went “online” in 2009. BTC remains the most widely traded and covered cryptocurrency to date. As of November 2021, there were 18.8 million bitcoins in circulation with a total market cap of around 1.2trillion dollars. There is a cap of 21 million bitcoins to ever exist meaning the value will continue to increase.
+                  
+                  Due to bitcoins amazing success and the obvious solutions blockchains offer, many other cryptocurrencies have been launched, known as alt-coins (some listed above ). Some of these are clones or “forks” of bitcoin while others were built from scratch. By November 2021 the aggregate value of all crypto currencies had reached 2.1trillion – BTC  represented approx. 41% of that total value.
+                  
+                  Fiat currencies are a crypto currency that has its value pegged to that of a standard currency E.g USD , pound etc<br>
+                  
+                  As of December 2021, El Salvador is the only country in the world to allow bitcoin as legal tender for money for monetary transaction.  Jurisdiction in regard to crypto varies the world over.  
+                  
+                  Cryptocurrencies are distributed / sold on a variety of exchanges like that of a stock exchange. Some examples of crypto exchanges are binance, kucoin, crypto.com and a variety of brokers the world over. Crypto currencies are also often sold via the company’s website, especially before they are approved for exchanges such as binance etc.<br>
+                  
+                  Cryptocurrencies are generated by mining. Mining is a process that involves downloading software that contains a partial or full history of the blockchain and confirming future transactions which is rewarded in a small payout of the cryptocurrency you’re mining.
+                  
+                  Crypto currencies are an alternative to our current monetary system.  The goal is to streamline existing financial architecture to make it more efficient, while taking the control away from institutions such as banks and returning it to the masses.
+                  
+                  Blockchains and the crypto currencies operating throughout them have the potential to transform well established financial institutions and bring lower costs, faster execution of transactions, improved transparency meaning total reform to our financial sector. 
+                  
+                  Blockchain will reduce the massive duplication of information that creates delays, conflicts and confusion in many aspects of financial services, for example, when a syndicate of lenders participates in a loan, having one shared ledger means they don’t all need to be tracking the ledger independently. International’s payments and corporate stock records
+                  Are examples of financial areas with huge inefficiencies because of record duplication.
+                  
+                  It is entirely possible that in years to come we will see private businesses implementing their own private blockchains to improve the transparency and traceability of their financial operations, supply chains, inventory management systems and other internal business systems. 
+                  
+                  Blockchain is destined to create profound changes in almost all industries, for example blockchains will instantiate massive changes to health care, doctors’ clinicians and facilities will have better access to health records without location being a barrier. The transportation industry will see changes to the platform sued to track time, date and condition removes delivery charges for things like delays and damaged products. Retail and manufacturing companies can expect to see changes to the way they respond to consumer demand and could track provenance products. Once implemented blockchain will provide the ability for clear proof of origin for the oil and gas industry, eliminating all black-market concerns among other dubious sources and concerns. Possibly most excitingly blockchain has the ability to remove a lot of the anonymity surrounding governments making the day-to-day actions of our politicians more transparent.
+                  
+                  As blockchain becomes more and more of a staple for our modern world, your average human is more and more likely to be interacting with blockchain style technologies on a day-to-day basis. As we have covered above blockchain is destined to cause massive e reform to almost all areas of our lives providing less anonymity to the “powers at be” and less of a veil for them to hide behind. The good news is you wont necessarily notice a difference in how you perform most functions that are destined to be reformed in the future. For example, validating a contract in the future will work a lot the same way, however the way that information is stored will be reformed with the use of blockchain technology making it safer and more transparent for everyone involved. 
+                  All in all I think its extremely likely that blockchain will be affecting almost every part of your life in one way or another in the not so distant future.
+                  
+                  
+                  </p>
+               <span class="categories"><i class="fa fa-tag"></i> Reference: <br>
+			   Frankenfield, J 2022, <i>Cryptocurrency</i> , Investopedia, viewed 17 January 2022, &lt; https://www.investopedia.com/terms/c/cryptocurrency.asp &gt;
+			   <br><br>
+			   
+			   Wharton University of PENNSYLVANIA, 2018, <i> How the Blockchain Will Impact the Financial Sector</i>,Wharton University of PENNSYLVANIA, viewed 17 January 2022, &lt;https://knowledge.wharton.upenn.edu/article/blockchain-will-impact-financial-sector/ &gt;
+				<br><br>
+			   Adams, L 2018, <i> What is blockchain and how will it affect me?</i>, MINTZ, viewed 17 January 2022, &lt;	
+				https://www.mintz.com/insights-center/viewpoints/2231/2018-04-what-blockchain-and-how-will-it-affect-me &gt;<br>
+</span>
+		      </div>
+
+            <div class="link-box">
+              
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-01 End -->
+
+         <div id="modal-02" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/cybersecurity.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Cyber Security</h4>
+			      <p>Cybersecurity is the practice of protecting critical systems by adding multiple layers of protection spread across computers, applications, data that one or an organization wish to keep confidential. The technology in its current state is viable, however the majority public are not educated enough to implement these measures in our day to day lives. ASCS report produced by the Australian Cyber Security Centre reports cybercrime increased 13% over the 2020-21 financial year and the cost of cybersecurity and losses involved have also increased. Most organizations, as well as smaller business, has however, made cybersecurity a priority over 2021. The pandemic is the primary cause of this response as most organizations and business had to employ digital strategies in order to continue operating. This has ranged from setting up employees among various organizations with their own devices which came with all the latest VPN services and protections in line with cybersecurity to ensure no data would be leaked from these devices while they were out of the organizations reach. As well as businesses enrolling online websites for their products and ensuring there to be a up to date privacy policy making their customers aware of what data was being collected as well as ensuring that the securities in place among the website and the POS systems are secure enough to not have their data leaked. </p>
+
+<p>It is best to continue the education and provide more resources and avenues to help implement cybersecurity among organizations, businesses and the general public to avoid further increasing losses of monetary amounts as well as sensitive data. The ASCS have already taken this step in publishing various alerts and advisories on the cyber.gov.au website which in itself had seen over 7.8 million traction and they continue to publish step by step guides to assist older Australians and smaller businesses, and they also provide exercises to organizations to strengthen their cyber resilience. This should be the primary goal over the next few years as the world is thrust into a more digital age, as society I believe is not aware of the private data that may have already been or can potentially be leaked and unfortunately by the time we do become aware, it is too late. People need to be more educated in the different privacy policies that are enrolled among different organizations and businesses. And even more important for these organizations to ensure that they don’t lose their customers’ data due to negligent cybersecurity measures. </p>
+
+<p>AI and Machine learning have played parts in the advancement of cybersecurity. Such as Deep Learning being used to track logs, transactions and real-time data to find a threat within a network, by learning to spot patterns and signaling the potential attempt of an attack. This also falls in line with behavioral analytics which is stored and then reviewed for any patterns or habits among the users of the network. A baseline is set through organizations and any abnormal increase to data transmissions allows to identify a possible threat to the network. Blockchain is another advancement aiding cybersecurity. Blockchain itself is presented as a decentralized system with no central server. It allows each participant to have an updated copy of a large register, thus making it transparent, and traceability is easier as the logs can be checked by any member. Furthermore, hardware authentication has also made it harder for breaches as technology generates a unique code which then requires used input as well as the initial password in order to access the data. This is often referred to as 2 factor authentication and has been widely adopted to increase security among user accounts.  </p>
+
+ 
+
+<p>Educating society on cybersecurity in this digital could potentially reduce the losses involved in data breaches and leaks. It can ensure that large organizations and businesses and the general public don’t lose monetary value or even go as far as sensitive personal data stolen. The more resources available to educate on the current technologies available in terms of cybersecurity can potentially allow society to be more open to new innovations as they will feel safe knowing there are parameters in place to protect themselves in case something does happen to fail. These measures being taken early can save organizations and people alike time and the sensitive data they store. This applies to all new innovations as mentioned such as AI and Machine Learning as well as Blockchain as secure as that may be. Without these measure, these technologies unfortunately will become redundant and possibly never used as society feels it to be unsafe to their sensitive data. </p> 
+
+<p>As such, further education is required for everyone in order to effectively implement these new innovations. Blockchain is still rather new but has picked up traction, primarily with NFTs which in itself also has cybersecurity measures in place in order to avoid duplication of copyrighted items. Furthermore, AI and Machine Learning is already an area of skepticism. Primarily since people are not very confident with a technology potentially having the ability to think and learn on its own, even if it is employed to simply pick patterns within a network to identify threats. This is once again, due to lack of knowledge in the technology. With further education and implementation of these new technologies, it can also branch off to creating more job opportunities as there would be more people qualified to service these new technologies as they come, as well as new study options for both domestic and international students within various countries.</p>   
+
+
+
+<p>As someone who likes learning about new innovations, I believe these new technologies will have a positive impact in my life. With the advancements in cybersecurity, I can have peace in mind no matter where I am within the digital space. It will allow me to keep my work and personal items separate as they will be on different networks each with its own security protocols in place. It will allow me to create more digital spaces with my family where we all may be able to interact with each other, knowing that any information shared within that space stays within said family. AI and Machine Learning is a particularly interesting area to see how broad that technology can be in terms implementation given that this technology can be implemented to learn on its own to detect threats better. Blockchain, I will be honest is an area I lack knowledge in but that reinforces my point in the importance of education for these new technologies even more so that people understand what they are using. Transparency is key, as I am sure myself and many others – my family and friends among them – would hate to be in the scenario where data you did not know was being collected in terms of “protection” only for it to be leaked as a result of a breach due to one of these new technologies failing, thus creating distrust. I personally have had experiences with family members who would refrain from receiving information through digital means as they were under the impression that it would not be secure and that sensitive documents that would be sent digitally could be accessed by phishers and potential data breachers. Hence a direct example of fear due to lack of knowledge with the technology.</p>
+               
+			   <span class="categories"><i class="fa fa-tag"></i> Reference: 
+				<br>
+				 Australia Cyber Security Centre, 2020, <i> ACSC Annual Cyber Thread Report - 1 July 2020 to 30 June 2021</i>,Australia Cyber Security Centre, viewed 18 January 2022, &lt;https://www.cyber.gov.au/acsc/view-all-content/reports-and-statistics/acsc-annual-cyber-threat-report-2020-21&gt;
+				<br><br>
+				Andjela, 2022, <i>Cybersecurity innovation as the backbone of digital transformation</i>, inovation cloud, viewed 18 January 2022, &lt; https://innovationcloud.com/blog/cybersecurity-innovation-as-the-backbone-of-digital-transformation.html &gt;
+			   <br><br>
+			   CISCO, 2022, <i>What Is Cybersecurity</i>, CISCO, viewed 18 January 2022, &lt; https://www.cisco.com/c/en_au/products/security/what-is-cybersecurity.html &gt;
+			   <br><br>
+			   IBM, 2022, <i>What is cybersecurity</i>, IBM, viewed 18 January 2022, &lt; https://www.ibm.com/au-en/topics/cybersecurity &gt;
+			   <br><br>
+			   STU Online, 2021, <i> AI Is the Top Cyber Security Innovation of 2021</i>, STU Online, viewed 18 January 2022, &lt; https://online.stu.edu/articles/business/top-cyber-security-innovation-2021.aspx &gt;
+			   
+			   
+			   <br>
+			   </span>
+			   
+		      </div>
+
+            <div class="link-box">
+               
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-02 End -->
+
+         <div id="modal-03" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/cloudcomputing.jpg" alt="" />
+
+		      <div class="description-box">
+
+			      <h4>Cloud Services</h4>
+			      <p>
+                  Cloud Services
+“Cloud Services” refers to a wide range of services delivered on demand to companies and customers over the internet. these applications are designed to deliver services to the user in an and affordable way, while removing the need for internal infrastructure or additions hardware. Whether its checking email or collaborating most people are using cloud services in one way or another even if they aren’t aware of it. Cloud services are provided by vendors and service providers, they are made available to customers from the service providers servers, meaning there is no need for a company to assume the overheads of hosting its own applications or services etc on its own on premises servers.</p>
+
+<p>Public cloud services are services that a provider makes available to numerous customers over the web. The SAAS – Software as a service, IAAS – Infrastructure as a service and PAAS – Platform as a service are all examples of public cloud services. The ability to share resources is at scale is one of the biggest benefits to public cloud services. This allows organisations to offer more capabilities with less over heads then conventional methods.</p>
+
+<p>Private Cloud services are services that a provider does not make generally available to corporate users or subscribers. Apps and data are made available through the organizations own internal infrastructure with a private cloud services model. The platform and software serve one company exclusively and are not made available to external users. The private cloud model is utilised by companies that work with highly sensitive data such as those in healthcare or banking industries, which allows them to leverage advanced security protocols and extend resources in a virtualised environment.</p>
+
+<p>There is an arrangement where both private and public cloud services can be combined to form a Hybrid cloud environment. This arrangement is mostly utilised when the user / organisation needs to store sensitive data in a private cloud, but also requires employees to access apps and resources in a public cloud for day-to-day communication and collaboration.</p>
+
+<p>SAAS
+Software as a service, A very broad category which includes a wide variety of services. File storage and backup, web-based email, project management tools are all part of the SAAS line-ups examples are Dropbox, Gsuite,Microsoft Office 365, slack etc. in each of these applications users can access, share, store and “secure” information in the cloud.</p>
+
+<p>IAAS
+Infrastructure as a service. IAAS provides the infrastructure that many cloud service providers need to manage SAAS tools. IAAS supplies the complete datacentre framework, removing the need for on-site installations. Examples of IAAS are AWS, Microsoft Azure etc. these providers maintain all storage servers and networking hardware, also offer load balancing, application firewalls and many more features depending on the service chosen. Many well-known SAAS providers are run and maintained on IAAS platforms.</p>
+
+<p>PAAS
+Platform as a service. PAAS provides a web based environment where developers can build cloud apps. PAAS provides a database, operating system and programming language that organisations can use to develop cloud based software, without maintain the underlying elements.</p>
+
+<p>Cloud services are often provided on a monthly or annual basis which removes the requirement for software licencing for on premise machines, removing the need to invest in onsite infrastructure and equipment. Also greatly increasing flexibility as services are implemented in an on demand, as-needed basis meaning the business can cancel the subscription or shut down the service with little no outlay and minimum cost to the customer.</p>
+
+<p>Cloud computing has had a profound effect on the world, as a direct result of cloud computing / cloud services remote work has become not only a possibility but coupled with the pandemic a total reality for a lot of people the world over, without cloud services this would be a lot less possible. Another key area cloud computing has greatly affected is cost reduction, because resources can be so widely spread the ability to spread cost means greatly reduced cost for everyone involved, and as a direct result high end programs / services are more widely accessible.</p>
+
+<p>Another key benefit to cloud computing and how it has transformed the way we use tech is its scalability. scalability is the key benefit to cloud technology as the client has the flexibility to scale up and scale down the resources as per its requirements.</p>
+
+<p>Cloud computing’s flexibility has seen it once again mould the text industry, slowly transforming it into the futuristic tech industry we are currently in, thanks to the flexibility cloud computing offers the average customer or user is free to decide which services they want to use and pay for. </p>
+
+ <p>Cloud services are being used to support social impacts, even involved in reducing carbon emissions. The impact of cloud computing in our day to day lives varies but is very prevalent, some examples of how cloud computing affects us. Social media, Facebook, Instagram, LinkedIn, twitter etc all use the cloud in one way or another IE the pictures we upload are all stored in the cloud. Entertainment  industry has been completetly overhauled with cloud computing , where we would before go and rent a dvd, buy our music in cd format etc etc  now we directly stream our entertainment. Netflix , amazon, spotify, etc all utilise  the cloud. Even the way we shop has been revolutionised by the cloud with ecommerce companies like Amazon , Flipkart etc also employing the cloud. Doctors offices establish cloud based portals where important health data is accessible. Universites offer courses online via learning materials, stored in the cloud.</p> 
+
+<p>In conclusion the impact of cloud computing is almost everywhere, it’s a  remarkable revolution that continues to shape our world.</p> 
+
+<p>“Cloud Computing is the third wave of the digital revolution”-Lowell Mc Adam.
+
+                 
+                  </p>
+               <span class="categories"><i class="fa fa-tag"></i>Reference: <br>
+			    Citrix, 2022, <i> What is a cloud service</i>, Citrix, viewed 17 January 2022, &lt;https://www.citrix.com/ru-ru/solutions/digital-workspace/what-is-a-cloud-service.html &gt;
+			    <br> <br>
+				Ohri, A 2021, <i> RESOURCES </i>, jigsaw, viewed 17 January 2022, &lt;	
+				https://www.jigsawacademy.com/blogs/cloud-computing/impact-of-cloud-computing &gt;<br>
+                
+               </span>
+
+		      </div>
+
+            <div class="link-box">
+               
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-03 End -->
+
+         <div id="modal-04" class="popup-modal mfp-hide">
+
+		      <img class="scale-with-grid" src="images/portfolio/machinelearning.jpg" alt="" />
+
+		      <div class="description-box">
+			      <h4>Machine Learning</h4>
+			      <p>Machine learning is the training of computer programs such as algorithms, using collections of data called datasets, to 1) construct a model for a problem and 2) make decisions about the problem, often without further human intervention. </p>
+
+<p>A state-of-the-art example is a probabilistic model for recommendations called SVD++, which is a new algorithm to recommend products to customers based on usage and personal profile, called a recommender. A recommender is a beneficial aid for customers to shop because it will increase the likelihood that people find the product they want, which leads to them buying and thereby increasing revenue. This is most often used in e-commerce and streaming services settings. </p>
+
+<p>The field of machine learning has vast and important applications in many industries, especially in fast decision making in financial, banking and insurance. The technology is a marked improvement from earlier programs written based on fixed business rules and logics; since the algorithm learns from datasets to derive its own rules, the rules evolve with the dataset the algorithm over time. The following are some current applications:</p>
+
+
+<p>1.	Fraud Detection
+Machine Learning is extensively used in banks for detecting fraudulent credit card transactions, by preventing suspicious transactions outside of the customer’s daily spending patterns from going through. </p>
+
+
+<p>2.	Credit Scoring
+Machine Learning algorithms are employed in loan assessments, evaluating risks of loan applicants based on their profiles to produce a credit score, in order to reduce future loan defaults. The financial institution can also choose to be lenient with non-performing loans, by helping customers with good credit scores to restructure their loan obligations instead of taking more drastic measures such as foreclosures.</p>
+
+
+<p>3.	Email Spam Filtering
+Spam messages are mass irrelevant messages that cause unnecessary clogging of email inboxes. The purpose of spam filtering is to improve user experience by filtering out spam messages into a different folder. Many intelligent spam filtering systems are now using machine learning algorithms to detect spam messages by learning the patterns and style of previous spam messages, instead of simple phrase or word matching used in the past. </p>
+
+
+<p>4.	Transport Planning
+Machine Learning can be used to plan out a traffic network, by learning data from traffic patterns from different days and times of the day. The datasets of vehicles and people movement are learned by the algorithms to produce a model that establishes existing patterns, so that it can be used by the planner to reduce wastage of service capacity in areas not likely to generate traffic. A model can also be constructed to simulate the future traffic scenarios for comparison.</p>
+
+
+
+<p>One important future application of machine learning is training algorithms in full self-driving vehicles. The algorithm will be trained with 1) on-road datasets collected by various sensors such as the fast-developing radar technologies to determine immediate response to different road situations, and 2) aggregate traffic pattern data to predict current traffic so as to determine fastest routes that increase overall fuel efficiency (a climate change target). This will require all vehicles to submit data rapidly to a central cloud, therefore a 5G network or above is necessary to support this kind of fast data transmissions in real time. Road tests from private corporations in China and the US are already underway.</p>
+
+<p>Another piece of technology to enable full self-driving vehicles is the use of quantum computers in machine learning that could significantly increase the speed of the algorithm’s processing and response time. Quantum computers are still being developed but they are predicted to be many times faster than classical computers in certain problems, and the enormous data from the sensors uploaded to the cloud will require a very fast algorithm to respond in reasonable time. 
+
+
+<p>The enormous impact of machine learning is already felt in many workplaces and homes, and it will continue to be the case in the years to come. The world is being empowered by faster decision making based on real data to solve hard problems, using the ever improving CPU speeds and sensor technologies. The increasing coverage of data collection means that more problems can be solved without human intervention. The need of human workers in some workplaces will be replaced by the decision making abilities from machine learning algorithms.
+
+<p>In work situations where many workers are needed to assess information to form good business decisions, machine learning will greatly reduce the number of human workers needed as decision makers. Human workers will be placed higher in the work hierarchy to deal with more complicated problems, or simply random check on the decisions made by algorithms. The faster and lower cost decision making means that the bank or financial companies can reduce the overall cost in providing services and shorten the response time by using credit scoring models, which will in turn increase profit margins. </p>
+
+<p>The use of a machine learning model has a higher cost to businesses initially, but the long term running cost is much lower than sustaining an employee. The people who have a low educational skill set, and perform streamlined repetitive tasks are going to be redundant first, businesses will create more positions for workers who can deal with more complicated situations, and jobs requiring more creativity or human touch to the solutions.</p>
+
+<p>Positions for engineers, data scientists and machine learning specialists will be in much higher demand in the foreseeable future. They are the major pillars to create, maintain and improve the machine learning systems in many applications in different industries. Bank tellers, loan officers, insurance claim assessors will be redundant because their job will be mostly replaced by the algorithms. This is already happening in Europe, where many rural bank branches are closed to save costs, customers are streamed into online services where they are being served by machine tellers (aka chat bots).</p>
+
+<p>
+The rise of machine learning will definitely speed up many decision making processes in my daily life: 1) Better purchasing decisions, based on my previous purchases, a recommender will help me be better informed about, and find, the items I want to purchase, in a tailored and efficient manner, 2) Better user satisfaction, when the algorithm can understand my preferences from studying the purchase history and personal profile, I feel more satisfied in buying online, 3) Shop online more frequently, because the online shops are easier to navigate and the algorithms help with my decision-making, this will greatly reduce the need for shopping trips in physical malls and the anxiety in explaining my preferences to a salesperson.
+</p>
+<p>
+
+I imagine that life will be different for me in domestic and work situations where the use of machine learning will disrupt the existing order in numerous ways: 1) My trip to work will be a much better experience when fully self-driving vehicles become a reality. With an automated navigation system powered by a machine learning algorithm, I won’t need to worry about handling traffic and deal with the stress of driving. I will arrive at work on time and be refreshed, rather than tired. 2) My work experience will also be affected. Instead of low level programming, I will gear towards employing Machine Learning techniques to solve problems by collecting datasets and using the algorithm to make a decision. The fundamentals of my work will elevate to a much higher level of expertise; a problem solver rather than just a computer programmer.  
+
+</p>
+<p>
+My family and friends will also be affected by machine learning technologies, as they will use smarter automatic shopping algorithms to receive delivery regularly. With the IoT (Internet of Things) revolutionising home tech, many home appliances (such as fridges) will be installed with advanced sensors to collect data necessary for machine learning. The algorithm will work out when the stock level in the fridge is low and send a restocking order to the householder for their approval. People can focus more on enjoying life at home rather than spending time on shopping. 
+
+
+
+</p>
+               <span class="categories"><i class="fa fa-tag"></i>Reference: <br>
+                  Marius, H 2020,<i> Overview: State-of-the-Art Machine Learning Algorithms per Discipline & per Task  </i>, towards data science, viewed 17 January 2022, &lt;	 https://towardsdatascience.com/overview-state-of-the-art-machine-learning-algorithms-per-discipline-per-task-c1a16a66b8bb &gt;	<br>
+                  <br>
+                  
+               </span>
+
+		      </div>
+
+            <div class="link-box">
+               
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
+
+	      </div><!-- modal-04 End -->
+
+         
+
+	      </div><!-- modal-01 End -->
+
+      </div> <!-- row End -->
+
+   </section> <!-- Portfolio Section End-->
+
+
+
+      <!-- Skills
+      ----------------------------------------------- -->
+      <section id="project">
+      <div class="row skill">
+
+         <div class="three columns header-col">
+            <h1><span>IT Project</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <p>
+               Overview<br>
+               The RPG will have a focus on sentence mining, learning vocabulary and grammar in the context of full sentences rather than single word vocabulary.
+               Starting out, battles with enemy characters can be overcome with simple translation. The enemy will say something in either English or the target language, and it’ll be the player’s job to select the correct response via multiple choice answers. If correct, the user will receive a reward in the form of in game currency, an item, or even the enemy becoming playable. If the user selects the wrong answer, a battle will begin.
+               Eventually, it will switch from translation to selecting the matching sentence in the target language. For example, instead of translating the sentence ‘where is Tom?’ the correct response will be to select ‘Tom is at home’.
+               Tatoeba, a sentence and translation database under various Creative Commons licenses, will be used to build the base API. <br><br>
+               
+               Motivation<br>
+               Nowadays, technology has improved dramatically and the global has become a village. Since people can travel faster around the world, they are interested in learning a new language to communicate with local people in travel destinations. 
+               Even though we do not travel to different countries, we contact our relatives, family members, and business partners/colleagues via video calls from various mobile or desktop applications through the internet. Therefore, learning a new language, especially English, plays a role in our work and social life.
+               Our project, the Role-Playing Game (RPG) will be used as an educational game instead of traditional teaching methods to improve linguistic skills. Learners should not be dull and lack enthusiasm while studying. The idea of creating the game is that game will motivate students to spend their time more in their studies. The more participation time in playing this game, the more linguistic skill they improve. 
+               The use of the game in education will help the learners to enhance interest, concentration, desire to overcome obstacles, and willingness to retry from several failed attempts in their study. Learners will find it easy to memorise vocabulary and grammar in this method of learning and eventually they will achieve their target goals in their paths of learning with fun by playing this game.
+               <br><br>
+               Description<br>
+               The players have to choose their native language and target language they would like to learn at the beginning of the game. A road map will be displayed after selecting the desired languages. In the road map, the players will see a House landmark which is for beginner level of language and there are 50 sub-levels in each landmark location.  Other locations will be only able to see after the players have completed all these first 50 levels, another landmark, a Forest, will be unlocked then next will be a Beach. 
+               The reason for having a roadmap is to motivate the players to achieve more levels, for example, some players have curiosity about what landmark would be unlocked after they have finished their current one, some are proud to say when they meet with someone who played the same game and etc.
+               Since the game is designed for creating a happy and fun learning environment, we do not want that the players feel stressed and frustrated due to the complexity and difficulty by playing this game. Thus, the first level would be an introduction of a few vocabularies and the second and third stages would be to learn how the vocabularies in the first level are used in sentences and the same pattern would be repeated up to 39 levels. Then, the last 11 levels would be like a test for what they learned from the previous 39 levels and would be harder for players. 
+               The player will be a hero and the monsters will be used as enemies. Every next level of the game will introduce the player to stronger enemies and different appearances of monsters. There will be 10 questions for each level and the player will have 3 lives to achieve each level. The player can attempt 2 times for each question and will lose one life if both attempts of the answer are incorrect. If all the lives are lost in each level, the player will have to repeat the level again, i.e., 70% of correction in each level will let the player pass the level.
+               When the player enters a fight, a dialogue will be popped up on the head of hero and monster. The language on the monster would be your native language and that on the hero would be the language the players want to learn. It will be a multiple-choice question and the player has to select the correct translation, for example, the dialogue on the monster’s head will display “How are you” in Spanish and the options will be as below on the hero’s head in the target language.
+               -	“How are you?”
+               -	“Where are you?”
+               -	“How is you?”
+               -	“What is you?”
+               The first 39 levels of each landmark would be a simple translation and a response type would be kicked in last 11 levels with the same rule and multiple-choice options. For example, the monster will ask “How are you” in the target language. 
+               -	“ I am fine. Thanks”
+               -	“ I am at school.”
+               -	“ I am driving.”
+               -	“ I am having dinner.”
+               The appearance of the monster will be changed according to dialogue which will help better match with game themes and better memorising with images for learners. For example, monsters-based animals will be represented as enemies while learning words related to animals. Free open sources will be used for the availability of the languages and the game will keep a counter to avoid repetitive sentences and words in different levels when we add new resources.
+               The game will be saved to the level that the player is playing all the time in case of unexpected exiting from the game due to technical glitches or power interruption. When the player plays the game the next time after he/she exited, the game will be restarted from the level that he/she stopped.  Since this application is an educational game, the players can access earlier levels that have already been completed so that they can review and learn the previous sentences and vocabulary. 
+               <br><br>
+               
+               Tools and technologies,<br>
+               First and foremost we will need to create a website, in order to create a website we will utilise HTML,CSS and JavaScript. We will also require a social media presence so accounts will be required on Facebook, Instagram, Tiktok and Twitter. Github will be utilised to ensure the ability to collaborate effectively between developers. Furthermore cloud storage will be a must once the game is fully developed, IBM offers secure commercial solutions. Advertising via google, Instagram, Facebook, YouTube, SEO, Blogging influencers, Government initiatives and relative brands.  
+               
+               Depending on if this project materialises as a 2D or 3D game, there are several free and paid software and assets that may be used. For 3D, the Unity Engine or Unreal Engine are available to use for free
+               with no royalties for $100,000 USD annually and the first $1,000,000 USD earned respectively. Unity can also be used for 2D software.
+               
+               
+               
+               For 2D, Game Maker Studio 2 has several subscription models available while the multiple versions of RPG Maker only cost an upfront fee for the software with free assets available in all versions and
+               even a basic character sprite editor is later iterations.
+               
+               Vocabulary will be gathered based on the websites and software listed in the overview.<br><br>
+               
+               Skills<br>
+               We will need to have proficiency in the following areas to make this project come to life; coding, graphic design, UI/UX design, audio design, animation, AI modelling, scripting, production. We will also need a game engine to actually run the game on such as Unreal Engine. We need to also ensure that the game would be optimized for a broad range of machines with different specifications. There would also need to be a network administrator maintaining the servers that we would need to use to push OTA updates periodically with new features and bug fixes. The feasibility of these requirements is definitely in our favor considering the time. The hardware availability is quite broad so finding a host server or running our own would not cause many hurdles. Most software’s such as engines are also open source which also broadens our choice. In terms of the skills required, there are plenty of online platforms on which to learn the skills required to make this project a reality, such as skill share or Lynda.com. 
+               <br><br>
+               
+               Outcome<br>
+               While no language learning application or software can ever truly teach someone the full extent of a language from zero to fluency, our product will hopefully serve as a valuable resource to help supplement and motivate the language learning experience.
+               Better yet, with the current stagnation and oversaturation of extremely simplistic gamified language learning experiences, we hope that our product will pave the way into more innovation and experimentation when it comes to methods of teaching a language.
+               It will also, hopefully, help to relax the language learning and polyglot community’s rather strict views on what is and isn’t learning. Inefficient yet popular, stale language learning is the norm among the elite, despite the contradictory science.  Acquisition of a language is quicker and more efficient through exposure in media, having tailored made experiences that are also enjoyable are a much needed and underutilised market.
+               Helping to set the standard by creating an accessible, easy to understand, and effective product is the true long-term goal.
+               Language learning should be for everyone, global communication should not be gatekept or watered down to such a degree that it’s ineffective. That is the outcome we at NetIT wish to make a reality.
+
+            </p>
+         
+            
+
+				<div class="bars">
+
+				   <ul class="skills">
+					   <li><span class="bar-expand People Skills"></span><em>Funding</em></li>
+                  <li><span class="bar-expand illustrator"></span><em>Buisiness plan</em></li>
+						<li><span class="bar-expand wordpress"></span><em>Teamwork</em></li>
+						<li><span class="bar-expand css"></span><em>Development</em></li>
+						<li><span class="bar-expand html5"></span><em>Passion</em></li>
+                  <li><span class="bar-expand jquery"></span><em>Integrity</em></li>
+					</ul>
+
+               
+
+				</div><!-- end skill-bars -->
+
+			</div> <!-- main-col end -->
+
+      </div> <!-- End skills -->
+
+   </section> <!-- Resume Section End-->
+   
+   <section id="reflection">
+      <div class="row skill">
+
+         <div class="three columns header-col">
+            <h1><span>Reflection</span></h1>
+         </div>
+
+         <div class="nine columns main-col">
+
+            <p>
+               <br>Group Reflection<br>
+               Our team started with two initial active members, Nathaniel and Enoch, then Thomas joined in week 5 and four more members (Angeles, Rabee, Lynn and Alwyn) joined in week 7. The project goes well as Nathaniel has been an excellent coordinator with admirable talents in editing the paper and setting up meetings. He communicates well and demonstrates good leadership skills. Strong leadership is the determining factor in driving the success in team projects. All our group members are keen and helpful, trying their best whenever they are asked.<br>
+
+Enoch has been receiving feedback for the website from the tutor. He authored the discussion in machine learning and provided the initial drafts of the ideal job’s skills table and the group reflection report. Thomas suggested the name of the team and constructed the website, the GitHub repo, in addition to sound contributions during the meetings. The other group members made an effort to contribute to meetings as well, with Lynn doing editing work on the paper, Alwyn contributing their insights into the selected project idea, (which is his idea); due to the limited time since they joined us, we look forward to getting to know them better in the next team assignment. <br> 
+
+In hindsight, we should have had the team finalised a week earlier so that we had more time to get to know one another, but given the circumstances, we achieved the best result we could, and overall, we feel positive about the team working experience. We will start early and implement better time control in finishing tasks in the next assignment. The tasks being allocated could be communicated better with clear deadlines and someone to follow up if necessary. <br>
+
+Another process that could be improved is how changes are made to the report. Currently Nathaniel incorporates every major change into both the website and document, which leads to a bottleneck until Nathaniel has time to incorporate everything. Next time we should use version control tools more extensively so that everyone should edit the document with their changes, preferably on GitHub, and then the editors can work on the completed document right away.<br>
+ <br><br>
+               
+               Enoch<br>
+               I enjoyed working with Nathaniel; he is really friendly and easy to approach. I am grateful for his leadership so that I can concentrate on technical writing. Thomas is working with us from a different time zone, he is currently living in Europe, and I guess it must be quite an effort from his side to get to our meetings, but he is holding up well. Lynn is very meticulous in editing the documents and she is a very diligent student. Alwyn has good creative ideas for projects. I hope to get to know Rabeed and Angles more in the next project, as they have only joined our group for a short time.<br>
+The team work environment helps me to improve my verbal communication, which has always been an area that I would like to work on. Unlike in written work where I have time to organise my thoughts, communicating my ideas verbally in a meeting is much more challenging. I truly enjoyed writing the Machine Learning discussion, a technical area that I am planning to research in postgraduate studies.  I also enjoyed trying to engage in the meeting and practise how to listen to other people. The valuable experience in exchanging ideas and sharing thoughts will go a long way when I join the workforce very soon and I am grateful to be part of the group.
+
+               <br><br>
+               Lynn<br>
+               Team members are friendly, and I feel welcome even though I joined late in this group. Nathaniel is a very good leader and supportive in both technical and writing parts. He welcomes team members’ suggestions and organise the need of criteria for our assignment too. Thomas is another remarkable team member who has more experience in coding more than me and he tried to make all meetings while he is in Spain despite of time difference. Enoch is an active member who always gives suggestions and advise in group chat and meeting. Alwyn is the one transferred in this group at the same time and creative with project idea. I have met once Rabeed and Angles who are shy and quiet in group chat and did not get a chance to know them well, but they might contact pretty well with our leader in individual chat. 
+ 
+This assignment makes me more familiar with the reality work environment. It is pretty good experience by working in this team and having a chance to participate in both writing and some work in website. I am grateful to work in our team and hope we can achieve both Assignment 2 and Assignment 3 together successfully.  
+
+               <br><br>
+               
+               Nathaniel<br>
+               As the team leader the team worked extremely well together, everyone participated in the group chat and voiced their opinions, we all collaborated to get the tasks done. If someone had trouble working on something they reach out to the group and ask for assistance. Towards the end of the assignment a few members of the group became quiet. For the most part everyone joined the majority of the meeting, anyone that could not make it let me know and I was able to assign tasks to them at a latter date. All team members completed the tasks that I assigned them, and they also volunteered to take jobs that were not assigned to anybody. We will need to improve on the ways that we collaborate the documents, as I was putting the document together it would have been easier if the team member could update the document as we went. I am genuinely surprised that everybody in the group participated, and nobody slacked off. I have learned to trust the members of the group to do the work and not micromanage them. I look forward to working with this team on future assignments.<br><br>
+               
+               Thomas<br>
+               I appreciate all the work that everyone put into the group assignment. It was great that Nathaniel reached out to me in the early weeks when he found out that I did not have a group. We worked extremely well as a group, and everyone completed the tasks that were assigned to them. I was able to make suggestions to the group and they were received quite well by all members of the group. When I came up with the name of for our team, all members at the time were happy to use it. It has been an enjoyable experience. Although I have been in a different country, we were able to meet a time that was convenient for all of us most of the time.
+               <br><br>
+               
+             
+               
+               Alwyn<br>
+			   As someone who joined the team later down the line, I’m not privy to how the group came together and foster its original dynamic. 
+However, the team I joined worked excellently together both in terms of synergy together and apart. Our leader was great at making sure most meetings stayed on topic, along with helping to delegate all required tasks and keeping us on track to finished everything assigned. There were no issues when it came to chasing someone down for overdue work and no drama if someone couldn’t contribute in the way originally intended. 
+Overall, I found the experience of working together a comfortable one and have no doubts that we’ll continue to vibe with each other in the coming weeks. 
+
+
+               <br><br>
+               
+               
+               
+
+            </p>
+         
+            
+
+				
+					</ul>
+
+				</div><!-- end skill-bars -->
+
+			</div> <!-- main-col end -->
+
+      </div> <!-- End skills -->
+
+   </section> <!-- Resume Section End-->
+
+   
+
+  
+
+
+
+  
+
+
+   <!-- Contact Section
+   ================================================== -->
+   <section id="contact">
+
+         <div class="row section-head">
+
+            <div class="two columns header-col">
+
+               <h1><span>Get In Touch.</span></h1>
+
+            </div>
+
+            <div class="ten columns">
+
+                  <p class="lead">In order to contact us please click on the Links below and email us!
+                  </p>
+                  <li>Nathaniel Email: <a href="S3882512@student.rmit.edu.au" title="Styleshout" target="_blank">S3882512@student.rmit.edu.au</a></li>  
+                  <li>Enoch Email: <a href="s3731997@student.rmit.edu.au" title="Styleshout" target="_blank">S3731997@student.rmit.edu.au</a></li>  
+                  <li>Thomas Email: <a href="S3925818@student.rmit.edu.au" title="Styleshout" target="_blank">S3925818@student.rmit.edu.au</a></li>  
+                  <li>Lynn Email: <a href="S3934613@student.rmit.edu.au" title="Styleshout" target="_blank">S3934613@student.rmit.edu.au</a></li> 
+                  <li>Angeles Email: <a href="S3935640@student.rmit.edu.au" title="Styleshout" target="_blank">S3935640@student.rmit.edu.au</a></li> 
+                  <li>Alwyn Email: <a href="s3930700@student.rmit.edu.au" title="Styleshout" target="_blank">S3762681@student.rmit.edu.au</a></li> 
+                  <li>Rabeed Email: <a href="s3930700@student.rmit.edu.au" title="Styleshout" target="_blank">S3930700@student.rmit.edu.au</a></li> 
+                  
+
+
+            </div>
+
+         </div>
+
+        
+
+			
+				   </div>
+
+            </div>
+
+
+            <aside class="four columns footer-widgets">
+
+            
+               
+
+            </aside>
+
+      </div>
+
+   </section> <!-- Contact Section End-->
+
+
+   <!-- footer
+   ================================================== -->
+   <footer>
+
+  
+
+            <ul class="copyright">
+               <li>Ceevee &copy; Copyright 2016</li>
+               <li>Design by <a href="http://srikrishnacommunication.com/Giridesigns.html" title="Styleshout" target="_blank">Giri Designs</a></li>   
+            </ul>
+
+         </div>
+
+         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
+
+      </div>
+
+   </footer> <!-- Footer End-->
+
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/magnific-popup.js"></script>
+   <script src="js/init.js"></script>
+
+</body>
+
+</html>
